@@ -1,0 +1,7 @@
+\begin{itemize}
+\item En el algoritmo sin ordenación, la función de selección busca para cada defensa la mejor celda a la que se puede optar, y en el peor caso ésta sería la última. Luego, la complejidad sería, suponiendo que n es el número de defensas y m el número de celdas del mapa, $(n^m)$. 
+\item Para la ordenación por fusión, la estructura se divide por la mitad, quedando dos partes de aproximadamente n/2. Ambas se ordenan de manera recursiva y luego han de combinarse, lo que requiere de n comparaciones. Luego, tendría una complejidad de t(n/2) + t(n/2) + n. En el caso de llegar a su tamaño mínimo, se realizaría una inserción directa, iterando n(n-1)/2 veces. Luego es de complejidad $(n^2)$.
+\item En el de ordenación rápida, toma un elemento como pivote y reorganiza elsubvector para que a la izquierda del pivote queden los menores o iguales, y a su derecha los mayores. Luego, el peor caso se produce cuando el pivote está en un extremo, realizando así n(n-1)/2 iteraciones, siendo de complejidad $(n^2)$.
+\item Según la propiedad de completitud y orden del montículo, el orden de ordenar es el equivalente al de inserción, que es de n log n (de acuerdo con la implementación del árbol que utiliza la librería de C++), ya que la altura del árbol es de log n y siempre inserta en el último nivel.   
+\end{itemize}
+

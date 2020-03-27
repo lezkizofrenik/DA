@@ -1,0 +1,135 @@
+
+
+
+
+/*
+
+List<Defense*> optimalDefenses(std::vector<std::vector<float>> &m, std::list<Defense*> defenses, unsigned int ases){
+
+    std::list<Defense*> bestCombo; //Lista paralela a la de defensas que guarda la mejor defensa con la que se puede combinar
+
+    std::list<int> result;
+
+    std::list<Defense*>::iterator it;
+
+    std::list<Defense*>::iterator it2;
+
+    std::list<int>::iterator it3;
+
+    int i = 0;
+
+    Defense* aux;
+
+    for(it = defenses.begin(); it != defenses.end(); it++, i++){
+
+        float max = -INF_F;
+
+        for(int j = 0; j < defenses.size(); j++){
+
+            if(max < m[i][j] && !search(bestCombo, *it)){
+
+                //Si la defensa no está asignada a otra ya
+
+                //Es decir, de estarlo, cogería la segunda mejor defensa
+
+                //Para que todas tengan una pareja
+
+                max = m[i][j];
+
+                aux = *(it);
+
+                
+
+        }
+
+        
+
+        bestCombo.push_front(aux);
+
+    }
+
+
+
+   
+
+     for(it3 = result.begin(); it3 != result.end(); it++, it2++,it3++){
+
+    //bestCombo.sort(compare()); //Ordeno las defensas para obtener las mejores de esa lista
+
+
+
+}
+
+
+
+*/
+
+
+
+/*
+
+List<Defense*> optimalDefenses(std::vector<std::vector<float>> &m, std::list<Defense*> defenses, unsigned int ases){
+
+    std::vector<std::vector<float>> aux;
+
+    int i = 0, indice=0;
+
+        for(std::list<Defense*>::iterator it = defenses.begin(); it != defenses.end(); it ++, i++){
+
+            std::list<Defense*>::iterator itaux = defenses.begin(); //*Esto evita utilizar una lista. Puedo usar un vector
+
+            float max = -INF_F;
+
+            for(int j = 0; j < defenses.size(); j++){ //Busco en la matriz el mayor valor
+
+                if(max < m[i][j] && !search(aux, i)){
+
+                    max = m[i][j];
+
+                    indice = i;
+
+                }
+
+            }
+
+            std::advance(itaux, indice); //*
+
+            aux[i][0] = indice; //indice de la maxima defensa
+
+            aux[i][1] = (*it)->cost + (*itaux)->cost;
+
+        }
+
+
+
+        std::list<Defense*, Defense*, int> hola;
+
+
+
+}
+
+*/
+
+
+
+struct bestDefense{
+
+    Defense* d;
+
+    Defense* bestCombo;
+
+    int result;
+
+}
+
+bool search(std::list<Defense*>defenses, Defense* d){
+
+    std::list<Defense*>::iterator it= std::find(defenses.begin(), defenses.end(), d);
+
+    if(it != defenses.end()) return true;
+
+    else return false;
+
+}
+
+

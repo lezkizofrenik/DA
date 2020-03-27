@@ -1,0 +1,33 @@
+\begin{lstlisting}
+void selectDefenses(std::list<Defense*> defenses, unsigned int ases, std::list<int> &selectedIDs
+            , float mapWidth, float mapHeight, std::list<Object*> obstacles){
+    //Tengo en cuenta primero la primera defensa
+    selectedIDs.push_front((*defenses.begin())->id);
+    ases -= (*defenses.begin())->cost;
+    defenses.pop_front(); // La elimino de la lista de defensas ya que debe quedar fuera de la búsqueda de la mejor combinación
+    std::vector<std::vector<float>> m(defenses.size(), std::vector<float>(ases + 1)); //tabla de subproblemas
+    
+    cellvalue(m, defenses, ases); //relleno la tabla
+    topDefenses(m, selectedIDs, defenses, ases); //interpreto la tabla y extraigo las mejores defensas
+
+}
+
+//algoritmo TSP
+void cellvalue(std::vector<std::vector<float>> &m, std::list<Defense*> defenses, unsigned int ases){
+    std::list<Defense*>::iterator it = defenses.begin();
+    for(int i = 0; i < ases + 1; i++){
+        if(i < (*it)->cost ) m[0][i] = 0;
+        else m[0][i] = DefenseValue(*it);
+    }
+
+    for(int j =1; j < defenses.size(); j++, it++){
+        for(int k = 0 ; k < ases + 1; k++){
+            if(k < (*it)->cost) m[j][k] = m[j-1][k];
+            else m[j][k] = std::max(m[j-1][k], m[j-1][k - (*it)->cost] + DefenseValue(*it));
+        }
+    }
+
+}
+
+
+\end{lstlisting}

@@ -1,0 +1,54 @@
+
+void merge(int *v, int i, int k, int j) {
+	// create a aux array
+	int aux[j - i + 1];
+
+	// crawlers for both intervals and for aux
+	int ii = i, jj = k+1, kk = 0;
+
+	// traverse both arrays and in each iteration add smaller of both elements in aux 
+	while(ii <= k && jj <= j) {
+		if(v[ii] <= v[jj]) {
+			aux[kk] = v[ii];
+			kk += 1; ii += 1;
+		}
+		else {
+			aux[kk] = v[jj];
+			kk += 1; jj += 1;
+		}
+	}
+
+	// add elements left in the first interval 
+	while(ii <= k) {
+		aux[kk] = v[ii];
+		kk += 1; ii += 1;
+	}
+
+	// add elements left in the second interval 
+	while(jj <= j) {
+		aux[kk] = v[jj];
+		kk += 1; jj += 1;
+	}
+
+	// copy aux to original interval
+	for(ii = i; ii <= j; ii += 1) {
+		v[ii] = aux[ii - i]
+	}
+}
+
+int partition (std::vector<defensePosition> &v, int start, int end)  
+{  
+    int pivot = v[end]; // pivot  
+    int i = (start - 1); // Index of smaller element  
+  
+    for (int j = start; j <= end - 1; j++)  
+    {  
+        // If current element is smaller than the pivot  
+        if (v[j] < pivot)  {  
+            i++; // increment index of smaller element  
+            std::swap(v[i], v[j]);  
+        }  
+    }  
+    std::swap(v[i + 1], v[end]);  
+    return (i + 1);  
+}  

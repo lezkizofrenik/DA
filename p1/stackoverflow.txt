@@ -1,0 +1,3 @@
+ algorithm for a game. It is visually similar to StarCraft so you can imagine.
+
+The algorithm has to place defenses based on the values you asigned to the map, which depends on the criteria of each person. There is two matrix for the values of the map: one for the values to place the first defense (that's the most important, if it is destroyed, you lose the game), and another for rest. That's because the first one's placement/ map value is based on the numbers of obstacles and how close is of the center, because the enemies come from the borders so the arrival will delay; and the rest has to be placed near the first one to defend it. If the first

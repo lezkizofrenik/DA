@@ -1,0 +1,9 @@
+$$ f(damage, attacksPerSecond, range, dispersion, health)= $$ $$(damage/attacksPerSecond)*4/5 + (range*dispersion*health)*1/5$$
+
+El criterio de evaluación de las defensas consiste en una suma de dos partes, que se desglosa en:
+\begin{itemize}
+\item El daño por segundo, de la relación del daño entre los ataques por segundo, en el que recae la mayor parte de la nota al estar ponderado con un 4/5. 
+Poco importa la salud, el rango o la dispersión si la defensa es superior en lo que respecta a daño.
+\item El producto del rango, la dispersión y la salud. Claro está que el rango y la dispersión están estrechamente ligadas, pero, al tener la salud un gran papel 
+ese 1/5, lo más correcto es utilizarlo como "potenciador" del resultado anterior (rango y dispersión).
+\end{itemize}

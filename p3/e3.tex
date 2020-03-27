@@ -1,0 +1,26 @@
+\begin{lstlisting}
+    int pivote(std::vector<cellValueStruct> &v, int start, int end)  {  
+    cellValueStruct pivot = v[end]; 
+    int min = (start - 1);  
+  
+    for (int i = start; i < end; i++){  
+        if (v[i] <= pivot){  
+            min++; 
+            std::swap(v[min], v[i]);  
+        }  
+    }  
+    std::swap(v[min + 1], v[end]);  
+    return (min + 1);  
+}  
+
+
+void quickSort(std::vector<cellValueStruct> &v, int i, int j){
+
+    if (i < j) {
+        int pivot = pivote(v, i, j);
+        quickSort(v, i, pivot-1);
+        quickSort(v, pivot+1, j);
+    }
+}
+
+\end{lstlisting}

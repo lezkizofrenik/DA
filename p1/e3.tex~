@@ -1,0 +1,68 @@
+\begin{lstlisting}
+
+void DEF_LIB_EXPORTED placeDefenses(bool** freeCells, int nCellsWidth, int nCellsHeight, float mapWidth, float mapHeight
+              , std::list<Object*> obstacles, std::list<Defense*> defenses) {
+
+   
+    float cellWidth = mapWidth / nCellsWidth;
+    float cellHeight = mapHeight / nCellsHeight; 
+    int maxAttemps = 1000; //Número de intentos en el que debe encontrar una posición factible
+   
+    //inicializo el mapa de valores
+    std::vector<std::vector<float>> MapValue(nCellsHeight, std::vector<float>(nCellsWidth)); //Mapa para el resto de defensas
+    std::vector<std::vector<float>> MapValueFirstD(nCellsHeight, std::vector<float>(nCellsWidth)); //Mapara para la primera
+
+    std::list<Defense*> defensescopy = defenses; //Hago una copia de la lista de defensas para ordenarlas
+    defensescopy.erase(defensescopy.begin()); //Borro la primera defensa
+    defensescopy.sort(compare()); //Las ordeno según una puntuación de sus características
+
+    // Le doy valores a los mapas
+    for(int i = 0; i < nCellsHeight; i++){
+        for(int j = 0; j < nCellsWidth; j++){
+            MapValue[i][j] = cellValue(i, j, nCellsWidth, nCellsHeight, mapWidth, mapHeight, obstacles, *defenses.begin());
+            MapValueFirstD[i][j] = FirstDefensecellValue(i, j, nCellsWidth, nCellsHeight, mapWidth, mapHeight, obstacles, defenses);
+           
+        }
+    }
+    
+   int row, col; //variables para obtener la fila y la columna a partir de positiontoCell
+   Vector3 v; //Guardará la posición devuelta por selection (la mejor del mapa)
+   bool firstTime = false; //Variable que indicará si la primera defensa se ha colocado o no
+   for( List<Defense*>::iterator currentDefense = defensescopy.begin(); currentDefense != defensescopy.end() && maxAttemps > 0; maxAttemps--){
+        if(!firstTime){ //Como estoy recorriendo la copia sin la primera defensa, tengo que hacer este bloque aparte para no utilizar
+                        //la lista original en el bucle for
+            v = selection(MapValueFirstD, cellHeight, cellWidth, nCellsWidth, nCellsHeight, defenses); //obtengo la mejor posición del mapa
+             positionToCell(v, row, col, cellWidth, cellHeight); //obtengo la fila y la columna de la mejor posición
+            if(feasibility((*defenses.begin())->id, row, col, nCellsWidth, nCellsHeight, mapWidth, mapHeight, obstacles, defenses)){
+                maxAttemps = 1000;
+                (*defenses.begin())->position = v;
+                firstTime=true;
+                //Si la posición hayada por selection es factible, se resetean los intentos, se le asigna la posición a la defensa
+                //y se pasa a la siguiente. En este bloque se hace lo mismo que en el del else, sólo que las funciones reciben
+                //parámetros distintos (el mapa y el id de la primera defensa, que requiere de la lista original). Además, necesita
+                //indicar que la primera defensa se ha colocado con la variable firstTime.
+             } 
+           
+        }else{
+          // En este bloque se hace lo mismo que arriba, sólo que 
+            v = selection(MapValue, cellHeight, cellWidth, nCellsWidth, nCellsHeight, defenses);
+            positionToCell(v, row, col, cellWidth, cellHeight);
+            if(feasibility((*currentDefense)->id, row, col, nCellsWidth, nCellsHeight, mapWidth, mapHeight, obstacles, defenses)){
+                maxAttemps = 1000;
+                (*currentDefense)->position = v;
+                currentDefense++;
+            } 
+        }
+   }
+   
+}
+
+struct compare {
+    bool operator()(Defense * d1, Defense * d2) {return ((d1->health*1/5 + d1->attacksPerSecond*1/5 + d1->range*1/5 + d1->damage*1/5
+                                                        + d1-> dispersion*1/5) > (d2->health*1/5 + d2->attacksPerSecond*1/5 + d2->range*1/5 + d2->damage*1/5
+                                                        + d2-> dispersion*1/5));}
+};
+
+//Estructura usada como criterio de ordenación en la copia de la lista de defensas basándose en la puntuación de sus características.
+
+\end{lstlisting}

@@ -1,0 +1,37 @@
+\begin{lstlisting}
+float costDefense(Defense* d1){
+    return (d1->health*1/5 + d1->attacksPerSecond*1/5 + d1->range*1/5 + d1->damage*1/5
+                                                        + d1-> dispersion*1/5);
+}
+
+
+void DEF_LIB_EXPORTED calculateAdditionalCost(float **cellCost, int cellsWidth, int cellsHeight, 
+            float mapWidth, float mapHeight, List<Object *> obstacles, List<Defense *> defenses){
+
+    float cellWidth = mapWidth / cellsWidth;
+    float cellHeight = mapHeight / cellsHeight;
+    List<Defense *>::iterator itDef;
+    List<Object *>::iterator itObs;
+    Vector3 cellPosition;
+    float cost = 0;
+
+    for (int i = 0; i < cellsHeight; i++){
+            for (int j = 0; j < cellsWidth; j++){
+
+                cellPosition = cellCenterToPosition(i, j, cellWidth, cellHeight);
+                cost=0.0;
+                for (itDef = defenses.begin(); itDef != defenses.end(); itDef++){
+                        float rr= 4* _distance((*itDef)->position, cellPosition) - (*itDef)->radio;
+                        for (itObs = obstacles.begin(); itObs != obstacles.end(); itObs++){
+                            if(_distance((*itObs)->position, cellPosition) - (*itObs)->radio < rr )
+                                rr += pow(_distance(cellPosition, (*itObs)->position),3);
+                        }
+                
+                    cost +=(rr + costDefense(*itDef));
+                }
+                cellCost[i][j] = cost ;
+            }
+
+        }
+}
+\end{lstlisting}

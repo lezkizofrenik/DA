@@ -1,0 +1,4336 @@
+./../simulador/simulador -l 3324 -v
+Difficulty: 324
+Map size: 400
+Cells width: 40
+Cells height: 40
+Obstacles: 25
+Defenses: 25
+Defenses types: 6
+Defenses randomness: 0.1
+Defense strategy: EXTERNAL
+Units: 2147483647
+Max play time: 600
+Random seed: 324
+Obstacle 0 with radio 16.4781 created at (383.57, 126.268, 0)
+Obstacle 1 with radio 23.8052 created at (253.791, 272.331, 0)
+Obstacle 2 with radio 27.2683 created at (227.673, 351.947, 0)
+Obstacle 3 with radio 16.9704 created at (377.754, 301.708, 0)
+Obstacle 4 with radio 19.5061 created at (24.5369, 249.471, 0)
+Obstacle 5 with radio 16.9576 created at (367.929, 213.409, 0)
+Obstacle 6 with radio 20.7762 created at (230.658, 171.509, 0)
+Obstacle 7 with radio 28.8494 created at (288.617, 30.3567, 0)
+Obstacle 8 with radio 16.812 created at (256.291, 113.402, 0)
+Obstacle 9 with radio 23.4154 created at (336.651, 41.3425, 0)
+Obstacle 10 with radio 21.4065 created at (329.562, 241.969, 0)
+Obstacle 11 with radio 22.1466 created at (133.349, 87.1625, 0)
+Obstacle 12 with radio 17.4143 created at (334.801, 60.861, 0)
+Obstacle 13 with radio 21.0868 created at (87.2222, 310.898, 0)
+Obstacle 14 with radio 29.1659 created at (152.615, 34.42, 0)
+Obstacle 15 with radio 21.3602 created at (294.521, 157.004, 0)
+Obstacle 16 with radio 26.1924 created at (170.424, 185.331, 0)
+Obstacle 17 with radio 26.5597 created at (71.5678, 170.467, 0)
+Obstacle 18 with radio 23.3943 created at (320.778, 140.807, 0)
+Obstacle 19 with radio 20.2788 created at (232.396, 112.423, 0)
+Obstacle 20 with radio 19.1832 created at (159.095, 392.011, 0)
+Obstacle 21 with radio 20.5444 created at (54.6675, 135.613, 0)
+Obstacle 22 with radio 16.4451 created at (358.27, 118.07, 0)
+Obstacle 23 with radio 27.8473 created at (286.703, 77.7684, 0)
+Obstacle 24 with radio 15.3481 created at (283.544, 47.5659, 0)
+Available defenses:
+Defense 0 [r=29.1141, da=4.58187, aps=1.00902, h=514.848, c=100]
+Defense 1 [r=29.1141, da=4.58187, aps=1.00902, h=514.848, c=100]
+Defense 2 [r=29.1141, da=4.58187, aps=1.00902, h=514.848, c=100]
+Defense 3 [r=29.1141, da=4.58187, aps=1.00902, h=514.848, c=100]
+Defense 4 [r=32.0418, da=4.74031, aps=1.05833, h=475.131, c=100]
+Defense 5 [r=32.0418, da=4.74031, aps=1.05833, h=475.131, c=100]
+Defense 6 [r=32.0418, da=4.74031, aps=1.05833, h=475.131, c=100]
+Defense 7 [r=32.0418, da=4.74031, aps=1.05833, h=475.131, c=100]
+Defense 8 [r=27.185, da=5.22646, aps=0.941418, h=528.833, c=98]
+Defense 9 [r=27.185, da=5.22646, aps=0.941418, h=528.833, c=98]
+Defense 10 [r=27.185, da=5.22646, aps=0.941418, h=528.833, c=98]
+Defense 11 [r=27.185, da=5.22646, aps=0.941418, h=528.833, c=98]
+Defense 12 [r=31.8745, da=4.64947, aps=1.00339, h=499.308, c=95]
+Defense 13 [r=31.8745, da=4.64947, aps=1.00339, h=499.308, c=95]
+Defense 14 [r=31.8745, da=4.64947, aps=1.00339, h=499.308, c=95]
+Defense 15 [r=31.8745, da=4.64947, aps=1.00339, h=499.308, c=95]
+Defense 16 [r=30.1247, da=5.17123, aps=1.07285, h=457.383, c=105]
+Defense 17 [r=30.1247, da=5.17123, aps=1.07285, h=457.383, c=105]
+Defense 18 [r=30.1247, da=5.17123, aps=1.07285, h=457.383, c=105]
+Defense 19 [r=30.1247, da=5.17123, aps=1.07285, h=457.383, c=105]
+Defense 20 [r=30.4524, da=5.33609, aps=1.08369, h=494.783, c=101]
+Defense 21 [r=30.4524, da=5.33609, aps=1.08369, h=494.783, c=101]
+Defense 22 [r=30.4524, da=5.33609, aps=1.08369, h=494.783, c=101]
+Defense 23 [r=30.4524, da=5.33609, aps=1.08369, h=494.783, c=101]
+Defense 24 [r=31.3478, da=4.63942, aps=1.06366, h=495.159, c=100]
+Total cost: 2496
+placedefense 1
+Defensa: 0 0 0
+Primera defensa: 0 0 0
+Defensa: 0 1 0
+Primera defensa: 0 1 0
+Defensa: 0 2 0
+Primera defensa: 0 2 0
+Defensa: 0 3 0
+Primera defensa: 0 3 0
+Defensa: 0 4 0
+Primera defensa: 0 4 0
+Defensa: 0 5 0
+Primera defensa: 0 5 0
+Defensa: 0 6 0
+Primera defensa: 0 6 0
+Defensa: 0 7 0
+Primera defensa: 0 7 0
+Defensa: 0 8 1
+Primera defensa: 0 8 5.38772
+Defensa: 0 9 1
+Primera defensa: 0 9 5.51737
+Defensa: 0 10 1
+Primera defensa: 0 10 5.63884
+Defensa: 0 11 1
+Primera defensa: 0 11 5.7496
+Defensa: 0 12 1
+Primera defensa: 0 12 5.84705
+Defensa: 0 13 1
+Primera defensa: 0 13 5.92869
+Defensa: 0 14 1
+Primera defensa: 0 14 5.99222
+Defensa: 0 15 1
+Primera defensa: 0 15 6.03572
+Defensa: 0 16 1
+Primera defensa: 0 16 6.05783
+Defensa: 0 17 0
+Primera defensa: 0 17 0
+Defensa: 0 18 0
+Primera defensa: 0 18 0
+Defensa: 0 19 0
+Primera defensa: 0 19 0
+Defensa: 0 20 0
+Primera defensa: 0 20 0
+Defensa: 0 21 0
+Primera defensa: 0 21 0
+Defensa: 0 22 1
+Primera defensa: 0 22 5.7496
+Defensa: 0 23 2
+Primera defensa: 0 23 11.2777
+Defensa: 0 24 2
+Primera defensa: 0 24 11.0347
+Defensa: 0 25 2
+Primera defensa: 0 25 10.7754
+Defensa: 0 26 2
+Primera defensa: 0 26 10.5045
+Defensa: 0 27 3
+Primera defensa: 0 27 15.3393
+Defensa: 0 28 2
+Primera defensa: 0 28 9.94422
+Defensa: 0 29 3
+Primera defensa: 0 29 14.4926
+Defensa: 0 30 2
+Primera defensa: 0 30 9.3813
+Defensa: 0 31 2
+Primera defensa: 0 31 9.10503
+Defensa: 0 32 1
+Primera defensa: 0 32 4.41726
+Defensa: 0 33 1
+Primera defensa: 0 33 4.2855
+Defensa: 1 0 0
+Primera defensa: 1 0 0
+Defensa: 1 1 0
+Primera defensa: 1 1 0
+Defensa: 1 2 0
+Primera defensa: 1 2 0
+Defensa: 1 3 0
+Primera defensa: 1 3 0
+Defensa: 1 4 0
+Primera defensa: 1 4 0
+Defensa: 1 5 0
+Primera defensa: 1 5 0
+Defensa: 1 6 0
+Primera defensa: 1 6 0
+Defensa: 1 7 0
+Primera defensa: 1 7 0
+Defensa: 1 8 1
+Primera defensa: 1 8 5.65685
+Defensa: 1 9 1
+Primera defensa: 1 9 5.80748
+Defensa: 1 10 1
+Primera defensa: 1 10 5.94964
+Defensa: 1 11 1
+Primera defensa: 1 11 6.08018
+Defensa: 1 12 1
+Primera defensa: 1 12 6.19578
+Defensa: 1 13 1
+Primera defensa: 1 13 6.29317
+Defensa: 1 14 1
+Primera defensa: 1 14 6.3693
+Defensa: 1 15 1
+Primera defensa: 1 15 6.42161
+Defensa: 1 16 0
+Primera defensa: 1 16 0
+Defensa: 1 17 0
+Primera defensa: 1 17 0
+Defensa: 1 18 0
+Primera defensa: 1 18 0
+Defensa: 1 19 0
+Primera defensa: 1 19 0
+Defensa: 1 20 0
+Primera defensa: 1 20 0
+Defensa: 1 21 0
+Primera defensa: 1 21 0
+Defensa: 1 22 2
+Primera defensa: 1 22 12.1604
+Defensa: 1 23 3
+Primera defensa: 1 23 17.8489
+Defensa: 1 24 3
+Primera defensa: 1 24 17.4224
+Defensa: 1 25 3
+Primera defensa: 1 25 16.9706
+Defensa: 1 26 3
+Primera defensa: 1 26 16.502
+Defensa: 1 27 4
+Primera defensa: 1 27 21.3656
+Defensa: 1 28 3
+Primera defensa: 1 28 15.5438
+Defensa: 1 29 3
+Primera defensa: 1 29 15.0661
+Defensa: 1 30 2
+Primera defensa: 1 30 9.73008
+Defensa: 1 31 2
+Primera defensa: 1 31 9.42286
+Defensa: 1 32 2
+Primera defensa: 1 32 9.12396
+Defensa: 1 33 1
+Primera defensa: 1 33 4.41726
+Defensa: 2 0 0
+Primera defensa: 2 0 0
+Defensa: 2 1 0
+Primera defensa: 2 1 0
+Defensa: 2 2 0
+Primera defensa: 2 2 0
+Defensa: 2 3 0
+Primera defensa: 2 3 0
+Defensa: 2 4 0
+Primera defensa: 2 4 0
+Defensa: 2 5 0
+Primera defensa: 2 5 0
+Defensa: 2 6 0
+Primera defensa: 2 6 0
+Defensa: 2 7 0
+Primera defensa: 2 7 0
+Defensa: 2 8 1
+Primera defensa: 2 8 5.94964
+Defensa: 2 9 2
+Primera defensa: 2 9 12.2513
+Defensa: 2 10 2
+Primera defensa: 2 10 12.5863
+Defensa: 2 11 2
+Primera defensa: 2 11 12.8965
+Defensa: 2 12 1
+Primera defensa: 2 12 6.58665
+Defensa: 2 13 1
+Primera defensa: 2 13 6.70402
+Defensa: 2 14 1
+Primera defensa: 2 14 6.79628
+Defensa: 2 15 1
+Primera defensa: 2 15 6.85994
+Defensa: 2 16 0
+Primera defensa: 2 16 0
+Defensa: 2 17 0
+Primera defensa: 2 17 0
+Defensa: 2 18 0
+Primera defensa: 2 18 0
+Defensa: 2 19 0
+Primera defensa: 2 19 0
+Defensa: 2 20 0
+Primera defensa: 2 20 0
+Defensa: 2 21 0
+Primera defensa: 2 21 0
+Defensa: 2 22 2
+Primera defensa: 2 22 12.8965
+Defensa: 2 23 3
+Primera defensa: 2 23 18.8795
+Defensa: 2 24 3
+Primera defensa: 2 24 18.3769
+Defensa: 2 25 3
+Primera defensa: 2 25 17.8489
+Defensa: 2 26 3
+Primera defensa: 2 26 17.3061
+Defensa: 2 27 5
+Primera defensa: 2 27 27.929
+Defensa: 2 28 4
+Primera defensa: 2 28 21.6137
+Defensa: 2 29 2
+Primera defensa: 2 29 10.447
+Defensa: 2 30 2
+Primera defensa: 2 30 10.0951
+Defensa: 2 31 2
+Primera defensa: 2 31 9.7532
+Defensa: 2 32 2
+Primera defensa: 2 32 9.42286
+Defensa: 2 33 2
+Primera defensa: 2 33 9.10503
+Defensa: 3 0 0
+Primera defensa: 3 0 0
+Defensa: 3 1 0
+Primera defensa: 3 1 0
+Defensa: 3 2 0
+Primera defensa: 3 2 0
+Defensa: 3 3 0
+Primera defensa: 3 3 0
+Defensa: 3 4 0
+Primera defensa: 3 4 0
+Defensa: 3 5 0
+Primera defensa: 3 5 0
+Defensa: 3 6 0
+Primera defensa: 3 6 0
+Defensa: 3 7 1
+Primera defensa: 3 7 6.05783
+Defensa: 3 8 1
+Primera defensa: 3 8 6.26839
+Defensa: 3 9 2
+Primera defensa: 3 9 12.9505
+Defensa: 3 10 2
+Primera defensa: 3 10 13.3482
+Defensa: 3 11 2
+Primera defensa: 3 11 13.7199
+Defensa: 3 12 2
+Primera defensa: 3 12 14.0546
+Defensa: 3 13 1
+Primera defensa: 3 13 7.17035
+Defensa: 3 14 1
+Primera defensa: 3 14 7.28357
+Defensa: 3 15 0
+Primera defensa: 3 15 0
+Defensa: 3 16 0
+Primera defensa: 3 16 0
+Defensa: 3 17 0
+Primera defensa: 3 17 0
+Defensa: 3 18 0
+Primera defensa: 3 18 0
+Defensa: 3 19 0
+Primera defensa: 3 19 0
+Defensa: 3 20 0
+Primera defensa: 3 20 0
+Defensa: 3 21 0
+Primera defensa: 3 21 0
+Defensa: 3 22 1
+Primera defensa: 3 22 6.85994
+Defensa: 3 23 3
+Primera defensa: 3 23 20.0223
+Defensa: 3 24 3
+Primera defensa: 3 24 19.4257
+Defensa: 3 25 3
+Primera defensa: 3 25 18.8052
+Defensa: 3 26 3
+Primera defensa: 3 26 18.1735
+Defensa: 3 27 4
+Primera defensa: 3 27 23.3882
+Defensa: 3 28 3
+Primera defensa: 3 28 16.9165
+Defensa: 3 29 3
+Primera defensa: 3 29 16.3058
+Defensa: 3 30 2
+Primera defensa: 3 30 10.4757
+Defensa: 3 31 2
+Primera defensa: 3 31 10.0951
+Defensa: 3 32 2
+Primera defensa: 3 32 9.73008
+Defensa: 3 33 2
+Primera defensa: 3 33 9.3813
+Defensa: 4 0 0
+Primera defensa: 4 0 0
+Defensa: 4 1 0
+Primera defensa: 4 1 0
+Defensa: 4 2 0
+Primera defensa: 4 2 0
+Defensa: 4 3 0
+Primera defensa: 4 3 0
+Defensa: 4 4 0
+Primera defensa: 4 4 0
+Defensa: 4 5 0
+Primera defensa: 4 5 0
+Defensa: 4 6 0
+Primera defensa: 4 6 0
+Defensa: 4 7 1
+Primera defensa: 4 7 6.3693
+Defensa: 4 8 1
+Primera defensa: 4 8 6.61541
+Defensa: 4 9 1
+Primera defensa: 4 9 6.85994
+Defensa: 4 10 1
+Primera defensa: 4 10 7.09773
+Defensa: 4 11 2
+Primera defensa: 4 11 14.645
+Defensa: 4 12 2
+Primera defensa: 4 12 15.0542
+Defensa: 4 13 2
+Primera defensa: 4 13 15.4074
+Defensa: 4 14 0
+Primera defensa: 4 14 0
+Defensa: 4 15 0
+Primera defensa: 4 15 0
+Defensa: 4 16 0
+Primera defensa: 4 16 0
+Defensa: 4 17 0
+Primera defensa: 4 17 0
+Defensa: 4 18 0
+Primera defensa: 4 18 0
+Defensa: 4 19 0
+Primera defensa: 4 19 0
+Defensa: 4 20 0
+Primera defensa: 4 20 0
+Defensa: 4 21 1
+Primera defensa: 4 21 7.5271
+Defensa: 4 22 1
+Primera defensa: 4 22 7.32252
+Defensa: 4 23 1
+Primera defensa: 4 23 7.09773
+Defensa: 4 24 2
+Primera defensa: 4 24 13.7199
+Defensa: 4 25 2
+Primera defensa: 4 25 13.2308
+Defensa: 4 26 1
+Primera defensa: 4 26 6.3693
+Defensa: 4 27 1
+Primera defensa: 4 27 6.12564
+Defensa: 4 28 2
+Primera defensa: 4 28 11.7749
+Defensa: 4 29 3
+Primera defensa: 4 29 16.9706
+Defensa: 4 30 2
+Primera defensa: 4 30 10.8705
+Defensa: 4 31 2
+Primera defensa: 4 31 10.447
+Defensa: 4 32 1
+Primera defensa: 4 32 5.02202
+Defensa: 4 33 0
+Primera defensa: 4 33 0
+Defensa: 5 0 0
+Primera defensa: 5 0 0
+Defensa: 5 1 0
+Primera defensa: 5 1 0
+Defensa: 5 2 0
+Primera defensa: 5 2 0
+Defensa: 5 3 0
+Primera defensa: 5 3 0
+Defensa: 5 4 0
+Primera defensa: 5 4 0
+Defensa: 5 5 0
+Primera defensa: 5 5 0
+Defensa: 5 6 0
+Primera defensa: 5 6 0
+Defensa: 5 7 1
+Primera defensa: 5 7 6.70402
+Defensa: 5 8 1
+Primera defensa: 5 8 6.99284
+Defensa: 5 9 1
+Primera defensa: 5 9 7.28357
+Defensa: 5 10 1
+Primera defensa: 5 10 7.57011
+Defensa: 5 11 1
+Primera defensa: 5 11 7.84465
+Defensa: 5 12 1
+Primera defensa: 5 12 8.09776
+Defensa: 5 13 1
+Primera defensa: 5 13 8.3189
+Defensa: 5 14 0
+Primera defensa: 5 14 0
+Defensa: 5 15 0
+Primera defensa: 5 15 0
+Defensa: 5 16 0
+Primera defensa: 5 16 0
+Defensa: 5 17 0
+Primera defensa: 5 17 0
+Defensa: 5 18 1
+Primera defensa: 5 18 8.62261
+Defensa: 5 19 1
+Primera defensa: 5 19 8.49719
+Defensa: 5 20 1
+Primera defensa: 5 20 8.3189
+Defensa: 5 21 2
+Primera defensa: 5 21 16.1955
+Defensa: 5 22 2
+Primera defensa: 5 22 15.6893
+Defensa: 5 23 2
+Primera defensa: 5 23 15.1402
+Defensa: 5 24 1
+Primera defensa: 5 24 7.28357
+Defensa: 5 25 1
+Primera defensa: 5 25 6.99284
+Defensa: 5 26 1
+Primera defensa: 5 26 6.70402
+Defensa: 5 27 1
+Primera defensa: 5 27 6.42161
+Defensa: 5 28 2
+Primera defensa: 5 28 12.2975
+Defensa: 5 29 2
+Primera defensa: 5 29 11.7749
+Defensa: 5 30 1
+Primera defensa: 5 30 5.63884
+Defensa: 5 31 1
+Primera defensa: 5 31 5.40343
+Defensa: 5 32 1
+Primera defensa: 5 32 5.18128
+Defensa: 5 33 0
+Primera defensa: 5 33 0
+Defensa: 6 0 0
+Primera defensa: 6 0 0
+Defensa: 6 1 0
+Primera defensa: 6 1 0
+Defensa: 6 2 0
+Primera defensa: 6 2 0
+Defensa: 6 3 0
+Primera defensa: 6 3 0
+Defensa: 6 4 0
+Primera defensa: 6 4 0
+Defensa: 6 5 0
+Primera defensa: 6 5 0
+Defensa: 6 6 0
+Primera defensa: 6 6 0
+Defensa: 6 7 1
+Primera defensa: 6 7 7.06225
+Defensa: 6 8 1
+Primera defensa: 6 8 7.40233
+Defensa: 6 9 1
+Primera defensa: 6 9 7.74984
+Defensa: 6 10 1
+Primera defensa: 6 10 8.09776
+Defensa: 6 11 1
+Primera defensa: 6 11 8.43649
+Defensa: 6 12 1
+Primera defensa: 6 12 8.75376
+Defensa: 6 13 1
+Primera defensa: 6 13 9.03508
+Defensa: 6 14 0
+Primera defensa: 6 14 0
+Defensa: 6 15 0
+Primera defensa: 6 15 0
+Defensa: 6 16 0
+Primera defensa: 6 16 0
+Defensa: 6 17 1
+Primera defensa: 6 17 9.51303
+Defensa: 6 18 1
+Primera defensa: 6 18 9.42809
+Defensa: 6 19 1
+Primera defensa: 6 19 9.26482
+Defensa: 6 20 2
+Primera defensa: 6 20 18.0702
+Defensa: 6 21 2
+Primera defensa: 6 21 17.5075
+Defensa: 6 22 3
+Primera defensa: 6 22 25.3095
+Defensa: 6 23 2
+Primera defensa: 6 23 16.1955
+Defensa: 6 24 2
+Primera defensa: 6 24 15.4997
+Defensa: 6 25 1
+Primera defensa: 6 25 7.40233
+Defensa: 6 26 1
+Primera defensa: 6 26 7.06225
+Defensa: 6 27 1
+Primera defensa: 6 27 6.73435
+Defensa: 6 28 1
+Primera defensa: 6 28 6.42161
+Defensa: 6 29 0
+Primera defensa: 6 29 0
+Defensa: 6 30 0
+Primera defensa: 6 30 0
+Defensa: 6 31 1
+Primera defensa: 6 31 5.58581
+Defensa: 6 32 1
+Primera defensa: 6 32 5.34141
+Defensa: 6 33 1
+Primera defensa: 6 33 5.1131
+Defensa: 7 0 0
+Primera defensa: 7 0 0
+Defensa: 7 1 1
+Primera defensa: 7 1 5.50065
+Defensa: 7 2 1
+Primera defensa: 7 2 5.7687
+Defensa: 7 3 1
+Primera defensa: 7 3 6.05783
+Defensa: 7 4 0
+Primera defensa: 7 4 0
+Defensa: 7 5 0
+Primera defensa: 7 5 0
+Defensa: 7 6 0
+Primera defensa: 7 6 0
+Defensa: 7 7 1
+Primera defensa: 7 7 7.44323
+Defensa: 7 8 1
+Primera defensa: 7 8 7.84465
+Defensa: 7 9 1
+Primera defensa: 7 9 8.26192
+Defensa: 7 10 1
+Primera defensa: 7 10 8.68744
+Defensa: 7 11 1
+Primera defensa: 7 11 9.10975
+Defensa: 7 12 1
+Primera defensa: 7 12 9.51303
+Defensa: 7 13 0
+Primera defensa: 7 13 0
+Defensa: 7 14 0
+Primera defensa: 7 14 0
+Defensa: 7 15 0
+Primera defensa: 7 15 0
+Defensa: 7 16 0
+Primera defensa: 7 16 0
+Defensa: 7 17 1
+Primera defensa: 7 17 10.5118
+Defensa: 7 18 1
+Primera defensa: 7 18 10.3975
+Defensa: 7 19 1
+Primera defensa: 7 19 10.1797
+Defensa: 7 20 2
+Primera defensa: 7 20 19.7546
+Defensa: 7 21 2
+Primera defensa: 7 21 19.0261
+Defensa: 7 22 3
+Primera defensa: 7 22 27.3293
+Defensa: 7 23 3
+Primera defensa: 7 23 26.0623
+Defensa: 7 24 2
+Primera defensa: 7 24 16.5238
+Defensa: 7 25 2
+Primera defensa: 7 25 15.6893
+Defensa: 7 26 1
+Primera defensa: 7 26 7.44323
+Defensa: 7 27 1
+Primera defensa: 7 27 7.06225
+Defensa: 7 28 2
+Primera defensa: 7 28 13.408
+Defensa: 7 29 1
+Primera defensa: 7 29 6.3693
+Defensa: 7 30 1
+Primera defensa: 7 30 6.05783
+Defensa: 7 31 1
+Primera defensa: 7 31 5.7687
+Defensa: 7 32 1
+Primera defensa: 7 32 5.50065
+Defensa: 7 33 2
+Primera defensa: 7 33 10.5045
+Defensa: 8 0 1
+Primera defensa: 8 0 5.38772
+Defensa: 8 1 1
+Primera defensa: 8 1 5.65685
+Defensa: 8 2 1
+Primera defensa: 8 2 5.94964
+Defensa: 8 3 1
+Primera defensa: 8 3 6.26839
+Defensa: 8 4 1
+Primera defensa: 8 4 6.61541
+Defensa: 8 5 0
+Primera defensa: 8 5 0
+Defensa: 8 6 0
+Primera defensa: 8 6 0
+Defensa: 8 7 0
+Primera defensa: 8 7 0
+Defensa: 8 8 1
+Primera defensa: 8 8 8.3189
+Defensa: 8 9 1
+Primera defensa: 8 9 8.82162
+Defensa: 8 10 1
+Primera defensa: 8 10 9.34539
+Defensa: 8 11 1
+Primera defensa: 8 11 9.8773
+Defensa: 8 12 1
+Primera defensa: 8 12 10.3975
+Defensa: 8 13 0
+Primera defensa: 8 13 0
+Defensa: 8 14 0
+Primera defensa: 8 14 0
+Defensa: 8 15 0
+Primera defensa: 8 15 0
+Defensa: 8 16 0
+Primera defensa: 8 16 0
+Defensa: 8 17 1
+Primera defensa: 8 17 11.7444
+Defensa: 8 18 1
+Primera defensa: 8 18 11.5857
+Defensa: 8 19 1
+Primera defensa: 8 19 11.2867
+Defensa: 8 20 2
+Primera defensa: 8 20 21.7571
+Defensa: 8 21 2
+Primera defensa: 8 21 20.795
+Defensa: 8 22 2
+Primera defensa: 8 22 19.7546
+Defensa: 8 23 2
+Primera defensa: 8 23 18.6908
+Defensa: 8 24 2
+Primera defensa: 8 24 17.6432
+Defensa: 8 25 2
+Primera defensa: 8 25 16.6378
+Defensa: 8 26 2
+Primera defensa: 8 26 15.6893
+Defensa: 8 27 2
+Primera defensa: 8 27 14.8047
+Defensa: 8 28 1
+Primera defensa: 8 28 6.99284
+Defensa: 8 29 1
+Primera defensa: 8 29 6.61541
+Defensa: 8 30 2
+Primera defensa: 8 30 12.5368
+Defensa: 8 31 2
+Primera defensa: 8 31 11.8993
+Defensa: 8 32 1
+Primera defensa: 8 32 5.65685
+Defensa: 8 33 2
+Primera defensa: 8 33 10.7754
+Defensa: 9 0 1
+Primera defensa: 9 0 5.51737
+Defensa: 9 1 1
+Primera defensa: 9 1 5.80748
+Defensa: 9 2 1
+Primera defensa: 9 2 6.12564
+Defensa: 9 3 1
+Primera defensa: 9 3 6.47524
+Defensa: 9 4 1
+Primera defensa: 9 4 6.85994
+Defensa: 9 5 1
+Primera defensa: 9 5 7.28357
+Defensa: 9 6 0
+Primera defensa: 9 6 0
+Defensa: 9 7 0
+Primera defensa: 9 7 0
+Defensa: 9 8 0
+Primera defensa: 9 8 0
+Defensa: 9 9 0
+Primera defensa: 9 9 0
+Defensa: 9 10 0
+Primera defensa: 9 10 0
+Defensa: 9 11 0
+Primera defensa: 9 11 0
+Defensa: 9 12 0
+Primera defensa: 9 12 0
+Defensa: 9 13 0
+Primera defensa: 9 13 0
+Defensa: 9 14 0
+Primera defensa: 9 14 0
+Defensa: 9 15 0
+Primera defensa: 9 15 0
+Defensa: 9 16 0
+Primera defensa: 9 16 0
+Defensa: 9 17 1
+Primera defensa: 9 17 13.3038
+Defensa: 9 18 1
+Primera defensa: 9 18 13.0744
+Defensa: 9 19 1
+Primera defensa: 9 19 12.6491
+Defensa: 9 20 2
+Primera defensa: 9 20 24.1649
+Defensa: 9 21 2
+Primera defensa: 9 21 22.8665
+Defensa: 9 22 2
+Primera defensa: 9 22 21.5041
+Defensa: 9 23 1
+Primera defensa: 9 23 10.0759
+Defensa: 9 24 1
+Primera defensa: 9 24 9.42809
+Defensa: 9 25 1
+Primera defensa: 9 25 8.82162
+Defensa: 9 26 2
+Primera defensa: 9 26 16.5238
+Defensa: 9 27 2
+Primera defensa: 9 27 15.4997
+Defensa: 9 28 1
+Primera defensa: 9 28 7.28357
+Defensa: 9 29 1
+Primera defensa: 9 29 6.85994
+Defensa: 9 30 2
+Primera defensa: 9 30 12.9505
+Defensa: 9 31 2
+Primera defensa: 9 31 12.2513
+Defensa: 9 32 2
+Primera defensa: 9 32 11.615
+Defensa: 9 33 2
+Primera defensa: 9 33 11.0347
+Defensa: 10 0 1
+Primera defensa: 10 0 5.63884
+Defensa: 10 1 1
+Primera defensa: 10 1 5.94964
+Defensa: 10 2 2
+Primera defensa: 10 2 12.5863
+Defensa: 10 3 2
+Primera defensa: 10 3 13.3482
+Defensa: 10 4 2
+Primera defensa: 10 4 14.1955
+Defensa: 10 5 2
+Primera defensa: 10 5 15.1402
+Defensa: 10 6 0
+Primera defensa: 10 6 0
+Defensa: 10 7 0
+Primera defensa: 10 7 0
+Defensa: 10 8 0
+Primera defensa: 10 8 0
+Defensa: 10 9 0
+Primera defensa: 10 9 0
+Defensa: 10 10 0
+Primera defensa: 10 10 0
+Defensa: 10 11 1
+Primera defensa: 10 11 0
+Defensa: 10 12 0
+Primera defensa: 10 12 0
+Defensa: 10 13 0
+Primera defensa: 10 13 0
+Defensa: 10 14 0
+Primera defensa: 10 14 0
+Defensa: 10 15 0
+Primera defensa: 10 15 0
+Defensa: 10 16 0
+Primera defensa: 10 16 0
+Defensa: 10 17 0
+Primera defensa: 10 17 0
+Defensa: 10 18 1
+Primera defensa: 10 18 14.9906
+Defensa: 10 19 1
+Primera defensa: 10 19 14.3592
+Defensa: 10 20 2
+Primera defensa: 10 20 27.0914
+Defensa: 10 21 2
+Primera defensa: 10 21 25.2982
+Defensa: 10 22 2
+Primera defensa: 10 22 23.4888
+Defensa: 10 23 1
+Primera defensa: 10 23 10.8786
+Defensa: 10 24 2
+Primera defensa: 10 24 20.1517
+Defensa: 10 25 2
+Primera defensa: 10 25 18.6908
+Defensa: 10 26 2
+Primera defensa: 10 26 17.3749
+Defensa: 10 27 2
+Primera defensa: 10 27 16.1955
+Defensa: 10 28 2
+Primera defensa: 10 28 15.1402
+Defensa: 10 29 1
+Primera defensa: 10 29 7.09773
+Defensa: 10 30 2
+Primera defensa: 10 30 13.3482
+Defensa: 10 31 2
+Primera defensa: 10 31 12.5863
+Defensa: 10 32 3
+Primera defensa: 10 32 17.8489
+Defensa: 10 33 2
+Primera defensa: 10 33 11.2777
+Defensa: 11 0 1
+Primera defensa: 11 0 5.7496
+Defensa: 11 1 2
+Primera defensa: 11 1 12.1604
+Defensa: 11 2 2
+Primera defensa: 11 2 12.8965
+Defensa: 11 3 2
+Primera defensa: 11 3 13.7199
+Defensa: 11 4 2
+Primera defensa: 11 4 14.645
+Defensa: 11 5 2
+Primera defensa: 11 5 15.6893
+Defensa: 11 6 1
+Primera defensa: 11 6 8.43649
+Defensa: 11 7 0
+Primera defensa: 11 7 0
+Defensa: 11 8 0
+Primera defensa: 11 8 0
+Defensa: 11 9 0
+Primera defensa: 11 9 0
+Defensa: 11 10 0
+Primera defensa: 11 10 0
+Defensa: 11 11 0
+Primera defensa: 11 11 0
+Defensa: 11 12 0
+Primera defensa: 11 12 0
+Defensa: 11 13 0
+Primera defensa: 11 13 0
+Defensa: 11 14 0
+Primera defensa: 11 14 0
+Defensa: 11 15 0
+Primera defensa: 11 15 0
+Defensa: 11 16 0
+Primera defensa: 11 16 0
+Defensa: 11 17 0
+Primera defensa: 11 17 0
+Defensa: 11 18 1
+Primera defensa: 11 18 17.5412
+Defensa: 11 19 2
+Primera defensa: 11 19 33.1042
+Defensa: 11 20 2
+Primera defensa: 11 20 30.6786
+Defensa: 11 21 1
+Primera defensa: 11 21 14.072
+Defensa: 11 22 0
+Primera defensa: 11 22 0
+Defensa: 11 23 1
+Primera defensa: 11 23 11.7444
+Defensa: 11 24 1
+Primera defensa: 11 24 10.7521
+Defensa: 11 25 2
+Primera defensa: 11 25 19.7546
+Defensa: 11 26 2
+Primera defensa: 11 26 18.2195
+Defensa: 11 27 2
+Primera defensa: 11 27 16.873
+Defensa: 11 28 2
+Primera defensa: 11 28 15.6893
+Defensa: 11 29 2
+Primera defensa: 11 29 14.645
+Defensa: 11 30 1
+Primera defensa: 11 30 6.85994
+Defensa: 11 31 2
+Primera defensa: 11 31 12.8965
+Defensa: 11 32 2
+Primera defensa: 11 32 12.1604
+Defensa: 11 33 2
+Primera defensa: 11 33 11.4992
+Defensa: 12 0 2
+Primera defensa: 12 0 11.6941
+Defensa: 12 1 2
+Primera defensa: 12 1 12.3916
+Defensa: 12 2 2
+Primera defensa: 12 2 13.1733
+Defensa: 12 3 2
+Primera defensa: 12 3 14.0546
+Defensa: 12 4 2
+Primera defensa: 12 4 15.0542
+Defensa: 12 5 1
+Primera defensa: 12 5 8.09776
+Defensa: 12 6 1
+Primera defensa: 12 6 8.75376
+Defensa: 12 7 1
+Primera defensa: 12 7 9.51303
+Defensa: 12 8 0
+Primera defensa: 12 8 0
+Defensa: 12 9 0
+Primera defensa: 12 9 0
+Defensa: 12 10 0
+Primera defensa: 12 10 0
+Defensa: 12 11 1
+Primera defensa: 12 11 14.072
+Defensa: 12 12 1
+Primera defensa: 12 12 15.7135
+Defensa: 12 13 1
+Primera defensa: 12 13 17.5412
+Defensa: 12 14 1
+Primera defensa: 12 14 19.4257
+Defensa: 12 15 1
+Primera defensa: 12 15 21.0819
+Defensa: 12 16 1
+Primera defensa: 12 16 22.0863
+Defensa: 12 17 1
+Primera defensa: 12 17 22.0863
+Defensa: 12 18 1
+Primera defensa: 12 18 21.0819
+Defensa: 12 19 1
+Primera defensa: 12 19 19.4257
+Defensa: 12 20 1
+Primera defensa: 12 20 17.5412
+Defensa: 12 21 1
+Primera defensa: 12 21 15.7135
+Defensa: 12 22 1
+Primera defensa: 12 22 14.072
+Defensa: 12 23 1
+Primera defensa: 12 23 12.6491
+Defensa: 12 24 1
+Primera defensa: 12 24 11.4332
+Defensa: 12 25 1
+Primera defensa: 12 25 10.3975
+Defensa: 12 26 2
+Primera defensa: 12 26 19.0261
+Defensa: 12 27 2
+Primera defensa: 12 27 17.5075
+Defensa: 12 28 2
+Primera defensa: 12 28 16.1955
+Defensa: 12 29 2
+Primera defensa: 12 29 15.0542
+Defensa: 12 30 1
+Primera defensa: 12 30 7.02728
+Defensa: 12 31 1
+Primera defensa: 12 31 6.58665
+Defensa: 12 32 1
+Primera defensa: 12 32 6.19578
+Defensa: 12 33 0
+Primera defensa: 12 33 0
+Defensa: 13 0 1
+Primera defensa: 13 0 5.92869
+Defensa: 13 1 2
+Primera defensa: 13 1 12.5863
+Defensa: 13 2 2
+Primera defensa: 13 2 13.408
+Defensa: 13 3 2
+Primera defensa: 13 3 14.3407
+Defensa: 13 4 1
+Primera defensa: 13 4 7.70371
+Defensa: 13 5 1
+Primera defensa: 13 5 8.3189
+Defensa: 13 6 1
+Primera defensa: 13 6 9.03508
+Defensa: 13 7 1
+Primera defensa: 13 7 9.8773
+Defensa: 13 8 0
+Primera defensa: 13 8 0
+Defensa: 13 9 0
+Primera defensa: 13 9 0
+Defensa: 13 10 0
+Primera defensa: 13 10 0
+Defensa: 13 11 1
+Primera defensa: 13 11 15.3393
+Defensa: 13 12 1
+Primera defensa: 13 12 17.5412
+Defensa: 13 13 1
+Primera defensa: 13 13 20.2031
+Defensa: 13 14 1
+Primera defensa: 13 14 23.2495
+Defensa: 13 15 1
+Primera defensa: 13 15 26.2613
+Defensa: 13 16 1
+Primera defensa: 13 16 28.2843
+Defensa: 13 17 2
+Primera defensa: 13 17 56.5685
+Defensa: 13 18 1
+Primera defensa: 13 18 26.2613
+Defensa: 13 19 1
+Primera defensa: 13 19 23.2495
+Defensa: 13 20 1
+Primera defensa: 13 20 20.2031
+Defensa: 13 21 1
+Primera defensa: 13 21 17.5412
+Defensa: 13 22 1
+Primera defensa: 13 22 15.3393
+Defensa: 13 23 1
+Primera defensa: 13 23 13.5457
+Defensa: 13 24 1
+Primera defensa: 13 24 12.0824
+Defensa: 13 25 1
+Primera defensa: 13 25 10.8786
+Defensa: 13 26 2
+Primera defensa: 13 26 19.7546
+Defensa: 13 27 2
+Primera defensa: 13 27 18.0702
+Defensa: 13 28 2
+Primera defensa: 13 28 16.6378
+Defensa: 13 29 2
+Primera defensa: 13 29 15.4074
+Defensa: 13 30 1
+Primera defensa: 13 30 7.17035
+Defensa: 13 31 1
+Primera defensa: 13 31 6.70402
+Defensa: 13 32 0
+Primera defensa: 13 32 0
+Defensa: 13 33 0
+Primera defensa: 13 33 0
+Defensa: 14 0 1
+Primera defensa: 14 0 5.99222
+Defensa: 14 1 1
+Primera defensa: 14 1 6.3693
+Defensa: 14 2 1
+Primera defensa: 14 2 6.79628
+Defensa: 14 3 1
+Primera defensa: 14 3 7.28357
+Defensa: 14 4 1
+Primera defensa: 14 4 7.84465
+Defensa: 14 5 1
+Primera defensa: 14 5 8.49719
+Defensa: 14 6 1
+Primera defensa: 14 6 9.26482
+Defensa: 14 7 1
+Primera defensa: 14 7 10.1797
+Defensa: 14 8 0
+Primera defensa: 14 8 0
+Defensa: 14 9 0
+Primera defensa: 14 9 0
+Defensa: 14 10 1
+Primera defensa: 14 10 14.3592
+Defensa: 14 11 1
+Primera defensa: 14 11 16.5521
+Defensa: 14 12 1
+Primera defensa: 14 12 19.4257
+Defensa: 14 13 1
+Primera defensa: 14 13 23.2495
+Defensa: 14 14 1
+Primera defensa: 14 14 28.2843
+Defensa: 14 15 1
+Primera defensa: 14 15 34.2997
+Defensa: 14 16 1
+Primera defensa: 14 16 39.2232
+Defensa: 14 17 2
+Primera defensa: 14 17 78.4465
+Defensa: 14 18 1
+Primera defensa: 14 18 34.2997
+Defensa: 14 19 1
+Primera defensa: 14 19 28.2843
+Defensa: 14 20 1
+Primera defensa: 14 20 23.2495
+Defensa: 14 21 1
+Primera defensa: 14 21 19.4257
+Defensa: 14 22 1
+Primera defensa: 14 22 16.5521
+Defensa: 14 23 2
+Primera defensa: 14 23 28.7183
+Defensa: 14 24 1
+Primera defensa: 14 24 12.6491
+Defensa: 14 25 1
+Primera defensa: 14 25 11.2867
+Defensa: 14 26 1
+Primera defensa: 14 26 10.1797
+Defensa: 14 27 1
+Primera defensa: 14 27 9.26482
+Defensa: 14 28 2
+Primera defensa: 14 28 16.9944
+Defensa: 14 29 2
+Primera defensa: 14 29 15.6893
+Defensa: 14 30 1
+Primera defensa: 14 30 7.28357
+Defensa: 14 31 0
+Primera defensa: 14 31 0
+Defensa: 14 32 0
+Primera defensa: 14 32 0
+Defensa: 14 33 0
+Primera defensa: 14 33 0
+Defensa: 15 0 1
+Primera defensa: 15 0 6.03572
+Defensa: 15 1 1
+Primera defensa: 15 1 6.42161
+Defensa: 15 2 1
+Primera defensa: 15 2 6.85994
+Defensa: 15 3 1
+Primera defensa: 15 3 7.3621
+Defensa: 15 4 1
+Primera defensa: 15 4 7.94301
+Defensa: 15 5 1
+Primera defensa: 15 5 8.62261
+Defensa: 15 6 1
+Primera defensa: 15 6 9.42809
+Defensa: 15 7 1
+Primera defensa: 15 7 10.3975
+Defensa: 15 8 0
+Primera defensa: 15 8 0
+Defensa: 15 9 0
+Primera defensa: 15 9 0
+Defensa: 15 10 1
+Primera defensa: 15 10 14.9906
+Defensa: 15 11 1
+Primera defensa: 15 11 17.5412
+Defensa: 15 12 1
+Primera defensa: 15 12 21.0819
+Defensa: 15 13 1
+Primera defensa: 15 13 26.2613
+Defensa: 15 14 1
+Primera defensa: 15 14 34.2997
+Defensa: 15 15 1
+Primera defensa: 15 15 47.1405
+Defensa: 15 16 1
+Primera defensa: 15 16 63.2456
+Defensa: 15 17 2
+Primera defensa: 15 17 126.491
+Defensa: 15 18 1
+Primera defensa: 15 18 47.1405
+Defensa: 15 19 1
+Primera defensa: 15 19 34.2997
+Defensa: 15 20 1
+Primera defensa: 15 20 26.2613
+Defensa: 15 21 1
+Primera defensa: 15 21 21.0819
+Defensa: 15 22 1
+Primera defensa: 15 22 17.5412
+Defensa: 15 23 0
+Primera defensa: 15 23 0
+Defensa: 15 24 1
+Primera defensa: 15 24 13.0744
+Defensa: 15 25 1
+Primera defensa: 15 25 11.5857
+Defensa: 15 26 1
+Primera defensa: 15 26 10.3975
+Defensa: 15 27 1
+Primera defensa: 15 27 9.42809
+Defensa: 15 28 1
+Primera defensa: 15 28 8.62261
+Defensa: 15 29 0
+Primera defensa: 15 29 0
+Defensa: 15 30 0
+Primera defensa: 15 30 0
+Defensa: 15 31 0
+Primera defensa: 15 31 0
+Defensa: 15 32 0
+Primera defensa: 15 32 0
+Defensa: 15 33 1
+Primera defensa: 15 33 6.03572
+Defensa: 16 0 0
+Primera defensa: 16 0 0
+Defensa: 16 1 1
+Primera defensa: 16 1 6.44826
+Defensa: 16 2 1
+Primera defensa: 16 2 6.89246
+Defensa: 16 3 1
+Primera defensa: 16 3 7.40233
+Defensa: 16 4 1
+Primera defensa: 16 4 7.99361
+Defensa: 16 5 1
+Primera defensa: 16 5 8.68744
+Defensa: 16 6 1
+Primera defensa: 16 6 9.51303
+Defensa: 16 7 0
+Primera defensa: 16 7 0
+Defensa: 16 8 0
+Primera defensa: 16 8 0
+Defensa: 16 9 0
+Primera defensa: 16 9 0
+Defensa: 16 10 1
+Primera defensa: 16 10 15.3393
+Defensa: 16 11 1
+Primera defensa: 16 11 18.1071
+Defensa: 16 12 1
+Primera defensa: 16 12 22.0863
+Defensa: 16 13 1
+Primera defensa: 16 13 28.2843
+Defensa: 16 14 1
+Primera defensa: 16 14 39.2232
+Defensa: 16 15 1
+Primera defensa: 16 15 63.2456
+Defensa: 16 16 1
+Primera defensa: 16 16 141.421
+Defensa: 16 17 2
+Primera defensa: 16 17 282.843
+Defensa: 16 18 1
+Primera defensa: 16 18 63.2456
+Defensa: 16 19 1
+Primera defensa: 16 19 39.2232
+Defensa: 16 20 1
+Primera defensa: 16 20 28.2843
+Defensa: 16 21 1
+Primera defensa: 16 21 22.0863
+Defensa: 16 22 1
+Primera defensa: 16 22 18.1071
+Defensa: 16 23 0
+Primera defensa: 16 23 0
+Defensa: 16 24 0
+Primera defensa: 16 24 0
+Defensa: 16 25 0
+Primera defensa: 16 25 0
+Defensa: 16 26 0
+Primera defensa: 16 26 0
+Defensa: 16 27 0
+Primera defensa: 16 27 0
+Defensa: 16 28 0
+Primera defensa: 16 28 0
+Defensa: 16 29 0
+Primera defensa: 16 29 0
+Defensa: 16 30 0
+Primera defensa: 16 30 0
+Defensa: 16 31 1
+Primera defensa: 16 31 6.89246
+Defensa: 16 32 1
+Primera defensa: 16 32 6.44826
+Defensa: 16 33 1
+Primera defensa: 16 33 6.05783
+Defensa: 17 0 0
+Primera defensa: 17 0 0
+Defensa: 17 1 0
+Primera defensa: 17 1 0
+Defensa: 17 2 1
+Primera defensa: 17 2 6.89246
+Defensa: 17 3 1
+Primera defensa: 17 3 7.40233
+Defensa: 17 4 1
+Primera defensa: 17 4 7.99361
+Defensa: 17 5 1
+Primera defensa: 17 5 8.68744
+Defensa: 17 6 0
+Primera defensa: 17 6 0
+Defensa: 17 7 0
+Primera defensa: 17 7 0
+Defensa: 17 8 0
+Primera defensa: 17 8 0
+Defensa: 17 9 0
+Primera defensa: 17 9 0
+Defensa: 17 10 0
+Primera defensa: 17 10 0
+Defensa: 17 11 1
+Primera defensa: 17 11 18.1071
+Defensa: 17 12 1
+Primera defensa: 17 12 22.0863
+Defensa: 17 13 1
+Primera defensa: 17 13 28.2843
+Defensa: 17 14 1
+Primera defensa: 17 14 39.2232
+Defensa: 17 15 1
+Primera defensa: 17 15 63.2456
+Defensa: 17 16 1
+Primera defensa: 17 16 141.421
+Defensa: 17 17 1
+Primera defensa: 17 17 141.421
+Defensa: 17 18 0
+Primera defensa: 17 18 0
+Defensa: 17 19 1
+Primera defensa: 17 19 39.2232
+Defensa: 17 20 1
+Primera defensa: 17 20 28.2843
+Defensa: 17 21 0
+Primera defensa: 17 21 0
+Defensa: 17 22 0
+Primera defensa: 17 22 0
+Defensa: 17 23 0
+Primera defensa: 17 23 0
+Defensa: 17 24 0
+Primera defensa: 17 24 0
+Defensa: 17 25 0
+Primera defensa: 17 25 0
+Defensa: 17 26 0
+Primera defensa: 17 26 0
+Defensa: 17 27 0
+Primera defensa: 17 27 0
+Defensa: 17 28 0
+Primera defensa: 17 28 0
+Defensa: 17 29 0
+Primera defensa: 17 29 0
+Defensa: 17 30 0
+Primera defensa: 17 30 0
+Defensa: 17 31 1
+Primera defensa: 17 31 6.89246
+Defensa: 17 32 1
+Primera defensa: 17 32 6.44826
+Defensa: 17 33 1
+Primera defensa: 17 33 6.05783
+Defensa: 18 0 0
+Primera defensa: 18 0 0
+Defensa: 18 1 0
+Primera defensa: 18 1 0
+Defensa: 18 2 0
+Primera defensa: 18 2 0
+Defensa: 18 3 0
+Primera defensa: 18 3 0
+Defensa: 18 4 0
+Primera defensa: 18 4 0
+Defensa: 18 5 0
+Primera defensa: 18 5 0
+Defensa: 18 6 0
+Primera defensa: 18 6 0
+Defensa: 18 7 0
+Primera defensa: 18 7 0
+Defensa: 18 8 0
+Primera defensa: 18 8 0
+Defensa: 18 9 0
+Primera defensa: 18 9 0
+Defensa: 18 10 0
+Primera defensa: 18 10 0
+Defensa: 18 11 1
+Primera defensa: 18 11 17.5412
+Defensa: 18 12 1
+Primera defensa: 18 12 21.0819
+Defensa: 18 13 1
+Primera defensa: 18 13 26.2613
+Defensa: 18 14 1
+Primera defensa: 18 14 34.2997
+Defensa: 18 15 1
+Primera defensa: 18 15 47.1405
+Defensa: 18 16 1
+Primera defensa: 18 16 63.2456
+Defensa: 18 17 0
+Primera defensa: 18 17 0
+Defensa: 18 18 0
+Primera defensa: 18 18 0
+Defensa: 18 19 0
+Primera defensa: 18 19 0
+Defensa: 18 20 0
+Primera defensa: 18 20 0
+Defensa: 18 21 0
+Primera defensa: 18 21 0
+Defensa: 18 22 0
+Primera defensa: 18 22 0
+Defensa: 18 23 0
+Primera defensa: 18 23 0
+Defensa: 18 24 0
+Primera defensa: 18 24 0
+Defensa: 18 25 0
+Primera defensa: 18 25 0
+Defensa: 18 26 0
+Primera defensa: 18 26 0
+Defensa: 18 27 0
+Primera defensa: 18 27 0
+Defensa: 18 28 1
+Primera defensa: 18 28 8.62261
+Defensa: 18 29 1
+Primera defensa: 18 29 7.94301
+Defensa: 18 30 1
+Primera defensa: 18 30 7.3621
+Defensa: 18 31 2
+Primera defensa: 18 31 13.7199
+Defensa: 18 32 1
+Primera defensa: 18 32 6.42161
+Defensa: 18 33 1
+Primera defensa: 18 33 6.03572
+Defensa: 19 0 1
+Primera defensa: 19 0 5.99222
+Defensa: 19 1 1
+Primera defensa: 19 1 6.3693
+Defensa: 19 2 0
+Primera defensa: 19 2 0
+Defensa: 19 3 0
+Primera defensa: 19 3 0
+Defensa: 19 4 0
+Primera defensa: 19 4 0
+Defensa: 19 5 0
+Primera defensa: 19 5 0
+Defensa: 19 6 0
+Primera defensa: 19 6 0
+Defensa: 19 7 0
+Primera defensa: 19 7 0
+Defensa: 19 8 0
+Primera defensa: 19 8 0
+Defensa: 19 9 0
+Primera defensa: 19 9 0
+Defensa: 19 10 0
+Primera defensa: 19 10 0
+Defensa: 19 11 0
+Primera defensa: 19 11 0
+Defensa: 19 12 0
+Primera defensa: 19 12 0
+Defensa: 19 13 1
+Primera defensa: 19 13 23.2495
+Defensa: 19 14 1
+Primera defensa: 19 14 28.2843
+Defensa: 19 15 0
+Primera defensa: 19 15 0
+Defensa: 19 16 0
+Primera defensa: 19 16 0
+Defensa: 19 17 0
+Primera defensa: 19 17 0
+Defensa: 19 18 0
+Primera defensa: 19 18 0
+Defensa: 19 19 0
+Primera defensa: 19 19 0
+Defensa: 19 20 0
+Primera defensa: 19 20 0
+Defensa: 19 21 0
+Primera defensa: 19 21 0
+Defensa: 19 22 0
+Primera defensa: 19 22 0
+Defensa: 19 23 0
+Primera defensa: 19 23 0
+Defensa: 19 24 0
+Primera defensa: 19 24 0
+Defensa: 19 25 0
+Primera defensa: 19 25 0
+Defensa: 19 26 0
+Primera defensa: 19 26 0
+Defensa: 19 27 1
+Primera defensa: 19 27 9.26482
+Defensa: 19 28 1
+Primera defensa: 19 28 8.49719
+Defensa: 19 29 1
+Primera defensa: 19 29 7.84465
+Defensa: 19 30 1
+Primera defensa: 19 30 7.28357
+Defensa: 19 31 2
+Primera defensa: 19 31 13.5926
+Defensa: 19 32 2
+Primera defensa: 19 32 12.7386
+Defensa: 19 33 1
+Primera defensa: 19 33 5.99222
+Defensa: 20 0 1
+Primera defensa: 20 0 5.92869
+Defensa: 20 1 1
+Primera defensa: 20 1 6.29317
+Defensa: 20 2 0
+Primera defensa: 20 2 0
+Defensa: 20 3 0
+Primera defensa: 20 3 0
+Defensa: 20 4 0
+Primera defensa: 20 4 0
+Defensa: 20 5 0
+Primera defensa: 20 5 0
+Defensa: 20 6 0
+Primera defensa: 20 6 0
+Defensa: 20 7 0
+Primera defensa: 20 7 0
+Defensa: 20 8 0
+Primera defensa: 20 8 0
+Defensa: 20 9 0
+Primera defensa: 20 9 0
+Defensa: 20 10 0
+Primera defensa: 20 10 0
+Defensa: 20 11 0
+Primera defensa: 20 11 0
+Defensa: 20 12 0
+Primera defensa: 20 12 0
+Defensa: 20 13 0
+Primera defensa: 20 13 0
+Defensa: 20 14 0
+Primera defensa: 20 14 0
+Defensa: 20 15 0
+Primera defensa: 20 15 0
+Defensa: 20 16 0
+Primera defensa: 20 16 0
+Defensa: 20 17 0
+Primera defensa: 20 17 0
+Defensa: 20 18 0
+Primera defensa: 20 18 0
+Defensa: 20 19 0
+Primera defensa: 20 19 0
+Defensa: 20 20 0
+Primera defensa: 20 20 0
+Defensa: 20 21 0
+Primera defensa: 20 21 0
+Defensa: 20 22 1
+Primera defensa: 20 22 15.3393
+Defensa: 20 23 0
+Primera defensa: 20 23 0
+Defensa: 20 24 0
+Primera defensa: 20 24 0
+Defensa: 20 25 0
+Primera defensa: 20 25 0
+Defensa: 20 26 1
+Primera defensa: 20 26 9.8773
+Defensa: 20 27 1
+Primera defensa: 20 27 9.03508
+Defensa: 20 28 1
+Primera defensa: 20 28 8.3189
+Defensa: 20 29 1
+Primera defensa: 20 29 7.70371
+Defensa: 20 30 1
+Primera defensa: 20 30 7.17035
+Defensa: 20 31 1
+Primera defensa: 20 31 6.70402
+Defensa: 20 32 2
+Primera defensa: 20 32 12.5863
+Defensa: 20 33 1
+Primera defensa: 20 33 5.92869
+Defensa: 21 0 1
+Primera defensa: 21 0 5.84705
+Defensa: 21 1 1
+Primera defensa: 21 1 6.19578
+Defensa: 21 2 1
+Primera defensa: 21 2 6.58665
+Defensa: 21 3 0
+Primera defensa: 21 3 0
+Defensa: 21 4 0
+Primera defensa: 21 4 0
+Defensa: 21 5 0
+Primera defensa: 21 5 0
+Defensa: 21 6 0
+Primera defensa: 21 6 0
+Defensa: 21 7 0
+Primera defensa: 21 7 0
+Defensa: 21 8 0
+Primera defensa: 21 8 0
+Defensa: 21 9 0
+Primera defensa: 21 9 0
+Defensa: 21 10 0
+Primera defensa: 21 10 0
+Defensa: 21 11 0
+Primera defensa: 21 11 0
+Defensa: 21 12 0
+Primera defensa: 21 12 0
+Defensa: 21 13 0
+Primera defensa: 21 13 0
+Defensa: 21 14 0
+Primera defensa: 21 14 0
+Defensa: 21 15 0
+Primera defensa: 21 15 0
+Defensa: 21 16 0
+Primera defensa: 21 16 0
+Defensa: 21 17 0
+Primera defensa: 21 17 0
+Defensa: 21 18 0
+Primera defensa: 21 18 0
+Defensa: 21 19 0
+Primera defensa: 21 19 0
+Defensa: 21 20 1
+Primera defensa: 21 20 17.5412
+Defensa: 21 21 1
+Primera defensa: 21 21 15.7135
+Defensa: 21 22 1
+Primera defensa: 21 22 14.072
+Defensa: 21 23 1
+Primera defensa: 21 23 12.6491
+Defensa: 21 24 1
+Primera defensa: 21 24 11.4332
+Defensa: 21 25 0
+Primera defensa: 21 25 0
+Defensa: 21 26 1
+Primera defensa: 21 26 9.51303
+Defensa: 21 27 1
+Primera defensa: 21 27 8.75376
+Defensa: 21 28 1
+Primera defensa: 21 28 8.09776
+Defensa: 21 29 1
+Primera defensa: 21 29 7.5271
+Defensa: 21 30 1
+Primera defensa: 21 30 7.02728
+Defensa: 21 31 1
+Primera defensa: 21 31 6.58665
+Defensa: 21 32 1
+Primera defensa: 21 32 6.19578
+Defensa: 21 33 0
+Primera defensa: 21 33 0
+Defensa: 22 0 1
+Primera defensa: 22 0 5.7496
+Defensa: 22 1 1
+Primera defensa: 22 1 6.08018
+Defensa: 22 2 1
+Primera defensa: 22 2 6.44826
+Defensa: 22 3 0
+Primera defensa: 22 3 0
+Defensa: 22 4 0
+Primera defensa: 22 4 0
+Defensa: 22 5 0
+Primera defensa: 22 5 0
+Defensa: 22 6 0
+Primera defensa: 22 6 0
+Defensa: 22 7 0
+Primera defensa: 22 7 0
+Defensa: 22 8 0
+Primera defensa: 22 8 0
+Defensa: 22 9 0
+Primera defensa: 22 9 0
+Defensa: 22 10 0
+Primera defensa: 22 10 0
+Defensa: 22 11 0
+Primera defensa: 22 11 0
+Defensa: 22 12 0
+Primera defensa: 22 12 0
+Defensa: 22 13 0
+Primera defensa: 22 13 0
+Defensa: 22 14 0
+Primera defensa: 22 14 0
+Defensa: 22 15 0
+Primera defensa: 22 15 0
+Defensa: 22 16 0
+Primera defensa: 22 16 0
+Defensa: 22 17 0
+Primera defensa: 22 17 0
+Defensa: 22 18 0
+Primera defensa: 22 18 0
+Defensa: 22 19 1
+Primera defensa: 22 19 16.5521
+Defensa: 22 20 1
+Primera defensa: 22 20 15.3393
+Defensa: 22 21 1
+Primera defensa: 22 21 14.072
+Defensa: 22 22 1
+Primera defensa: 22 22 12.8565
+Defensa: 22 23 1
+Primera defensa: 22 23 11.7444
+Defensa: 22 24 1
+Primera defensa: 22 24 10.7521
+Defensa: 22 25 1
+Primera defensa: 22 25 9.8773
+Defensa: 22 26 0
+Primera defensa: 22 26 0
+Defensa: 22 27 1
+Primera defensa: 22 27 8.43649
+Defensa: 22 28 1
+Primera defensa: 22 28 7.84465
+Defensa: 22 29 1
+Primera defensa: 22 29 7.32252
+Defensa: 22 30 1
+Primera defensa: 22 30 6.85994
+Defensa: 22 31 1
+Primera defensa: 22 31 6.44826
+Defensa: 22 32 1
+Primera defensa: 22 32 6.08018
+Defensa: 22 33 0
+Primera defensa: 22 33 0
+Defensa: 23 0 1
+Primera defensa: 23 0 5.63884
+Defensa: 23 1 1
+Primera defensa: 23 1 5.94964
+Defensa: 23 2 0
+Primera defensa: 23 2 0
+Defensa: 23 3 0
+Primera defensa: 23 3 0
+Defensa: 23 4 0
+Primera defensa: 23 4 0
+Defensa: 23 5 0
+Primera defensa: 23 5 0
+Defensa: 23 6 0
+Primera defensa: 23 6 0
+Defensa: 23 7 0
+Primera defensa: 23 7 0
+Defensa: 23 8 0
+Primera defensa: 23 8 0
+Defensa: 23 9 0
+Primera defensa: 23 9 0
+Defensa: 23 10 0
+Primera defensa: 23 10 0
+Defensa: 23 11 0
+Primera defensa: 23 11 0
+Defensa: 23 12 0
+Primera defensa: 23 12 0
+Defensa: 23 13 0
+Primera defensa: 23 13 0
+Defensa: 23 14 0
+Primera defensa: 23 14 0
+Defensa: 23 15 0
+Primera defensa: 23 15 0
+Defensa: 23 16 0
+Primera defensa: 23 16 0
+Defensa: 23 17 0
+Primera defensa: 23 17 0
+Defensa: 23 18 0
+Primera defensa: 23 18 0
+Defensa: 23 19 1
+Primera defensa: 23 19 14.3592
+Defensa: 23 20 1
+Primera defensa: 23 20 13.5457
+Defensa: 23 21 1
+Primera defensa: 23 21 12.6491
+Defensa: 23 22 1
+Primera defensa: 23 22 11.7444
+Defensa: 23 23 1
+Primera defensa: 23 23 10.8786
+Defensa: 23 24 1
+Primera defensa: 23 24 10.0759
+Defensa: 23 25 1
+Primera defensa: 23 25 9.34539
+Defensa: 23 26 0
+Primera defensa: 23 26 0
+Defensa: 23 27 1
+Primera defensa: 23 27 8.09776
+Defensa: 23 28 1
+Primera defensa: 23 28 7.57011
+Defensa: 23 29 1
+Primera defensa: 23 29 7.09773
+Defensa: 23 30 1
+Primera defensa: 23 30 6.67409
+Defensa: 23 31 1
+Primera defensa: 23 31 6.29317
+Defensa: 23 32 1
+Primera defensa: 23 32 5.94964
+Defensa: 23 33 0
+Primera defensa: 23 33 0
+Defensa: 24 0 1
+Primera defensa: 24 0 5.51737
+Defensa: 24 1 1
+Primera defensa: 24 1 5.80748
+Defensa: 24 2 0
+Primera defensa: 24 2 0
+Defensa: 24 3 0
+Primera defensa: 24 3 0
+Defensa: 24 4 0
+Primera defensa: 24 4 0
+Defensa: 24 5 0
+Primera defensa: 24 5 0
+Defensa: 24 6 0
+Primera defensa: 24 6 0
+Defensa: 24 7 0
+Primera defensa: 24 7 0
+Defensa: 24 8 0
+Primera defensa: 24 8 0
+Defensa: 24 9 0
+Primera defensa: 24 9 0
+Defensa: 24 10 0
+Primera defensa: 24 10 0
+Defensa: 24 11 0
+Primera defensa: 24 11 0
+Defensa: 24 12 0
+Primera defensa: 24 12 0
+Defensa: 24 13 0
+Primera defensa: 24 13 0
+Defensa: 24 14 0
+Primera defensa: 24 14 0
+Defensa: 24 15 0
+Primera defensa: 24 15 0
+Defensa: 24 16 0
+Primera defensa: 24 16 0
+Defensa: 24 17 0
+Primera defensa: 24 17 0
+Defensa: 24 18 0
+Primera defensa: 24 18 0
+Defensa: 24 19 1
+Primera defensa: 24 19 12.6491
+Defensa: 24 20 1
+Primera defensa: 24 20 12.0824
+Defensa: 24 21 1
+Primera defensa: 24 21 11.4332
+Defensa: 24 22 1
+Primera defensa: 24 22 10.7521
+Defensa: 24 23 1
+Primera defensa: 24 23 10.0759
+Defensa: 24 24 1
+Primera defensa: 24 24 9.42809
+Defensa: 24 25 1
+Primera defensa: 24 25 8.82162
+Defensa: 24 26 0
+Primera defensa: 24 26 0
+Defensa: 24 27 0
+Primera defensa: 24 27 0
+Defensa: 24 28 0
+Primera defensa: 24 28 0
+Defensa: 24 29 1
+Primera defensa: 24 29 6.85994
+Defensa: 24 30 1
+Primera defensa: 24 30 6.47524
+Defensa: 24 31 0
+Primera defensa: 24 31 0
+Defensa: 24 32 0
+Primera defensa: 24 32 0
+Defensa: 24 33 1
+Primera defensa: 24 33 5.51737
+Defensa: 25 0 0
+Primera defensa: 25 0 0
+Defensa: 25 1 0
+Primera defensa: 25 1 0
+Defensa: 25 2 0
+Primera defensa: 25 2 0
+Defensa: 25 3 1
+Primera defensa: 25 3 6.26839
+Defensa: 25 4 1
+Primera defensa: 25 4 6.61541
+Defensa: 25 5 1
+Primera defensa: 25 5 6.99284
+Defensa: 25 6 1
+Primera defensa: 25 6 7.40233
+Defensa: 25 7 1
+Primera defensa: 25 7 7.84465
+Defensa: 25 8 0
+Primera defensa: 25 8 0
+Defensa: 25 9 0
+Primera defensa: 25 9 0
+Defensa: 25 10 0
+Primera defensa: 25 10 0
+Defensa: 25 11 0
+Primera defensa: 25 11 0
+Defensa: 25 12 0
+Primera defensa: 25 12 0
+Defensa: 25 13 0
+Primera defensa: 25 13 0
+Defensa: 25 14 0
+Primera defensa: 25 14 0
+Defensa: 25 15 0
+Primera defensa: 25 15 0
+Defensa: 25 16 0
+Primera defensa: 25 16 0
+Defensa: 25 17 0
+Primera defensa: 25 17 0
+Defensa: 25 18 0
+Primera defensa: 25 18 0
+Defensa: 25 19 1
+Primera defensa: 25 19 11.2867
+Defensa: 25 20 1
+Primera defensa: 25 20 10.8786
+Defensa: 25 21 1
+Primera defensa: 25 21 10.3975
+Defensa: 25 22 1
+Primera defensa: 25 22 9.8773
+Defensa: 25 23 1
+Primera defensa: 25 23 9.34539
+Defensa: 25 24 1
+Primera defensa: 25 24 8.82162
+Defensa: 25 25 1
+Primera defensa: 25 25 8.3189
+Defensa: 25 26 0
+Primera defensa: 25 26 0
+Defensa: 25 27 0
+Primera defensa: 25 27 0
+Defensa: 25 28 0
+Primera defensa: 25 28 0
+Defensa: 25 29 0
+Primera defensa: 25 29 0
+Defensa: 25 30 0
+Primera defensa: 25 30 0
+Defensa: 25 31 0
+Primera defensa: 25 31 0
+Defensa: 25 32 1
+Primera defensa: 25 32 5.65685
+Defensa: 25 33 1
+Primera defensa: 25 33 5.38772
+Defensa: 26 0 0
+Primera defensa: 26 0 0
+Defensa: 26 1 0
+Primera defensa: 26 1 0
+Defensa: 26 2 0
+Primera defensa: 26 2 0
+Defensa: 26 3 1
+Primera defensa: 26 3 6.05783
+Defensa: 26 4 1
+Primera defensa: 26 4 6.3693
+Defensa: 26 5 1
+Primera defensa: 26 5 6.70402
+Defensa: 26 6 1
+Primera defensa: 26 6 7.06225
+Defensa: 26 7 1
+Primera defensa: 26 7 7.44323
+Defensa: 26 8 1
+Primera defensa: 26 8 7.84465
+Defensa: 26 9 0
+Primera defensa: 26 9 0
+Defensa: 26 10 0
+Primera defensa: 26 10 0
+Defensa: 26 11 0
+Primera defensa: 26 11 0
+Defensa: 26 12 0
+Primera defensa: 26 12 0
+Defensa: 26 13 0
+Primera defensa: 26 13 0
+Defensa: 26 14 0
+Primera defensa: 26 14 0
+Defensa: 26 15 0
+Primera defensa: 26 15 0
+Defensa: 26 16 0
+Primera defensa: 26 16 0
+Defensa: 26 17 0
+Primera defensa: 26 17 0
+Defensa: 26 18 0
+Primera defensa: 26 18 0
+Defensa: 26 19 1
+Primera defensa: 26 19 10.1797
+Defensa: 26 20 1
+Primera defensa: 26 20 9.8773
+Defensa: 26 21 1
+Primera defensa: 26 21 9.51303
+Defensa: 26 22 1
+Primera defensa: 26 22 9.10975
+Defensa: 26 23 1
+Primera defensa: 26 23 8.68744
+Defensa: 26 24 1
+Primera defensa: 26 24 8.26192
+Defensa: 26 25 0
+Primera defensa: 26 25 0
+Defensa: 26 26 0
+Primera defensa: 26 26 0
+Defensa: 26 27 0
+Primera defensa: 26 27 0
+Defensa: 26 28 0
+Primera defensa: 26 28 0
+Defensa: 26 29 0
+Primera defensa: 26 29 0
+Defensa: 26 30 0
+Primera defensa: 26 30 0
+Defensa: 26 31 0
+Primera defensa: 26 31 0
+Defensa: 26 32 1
+Primera defensa: 26 32 5.50065
+Defensa: 26 33 1
+Primera defensa: 26 33 5.25226
+Defensa: 27 0 0
+Primera defensa: 27 0 0
+Defensa: 27 1 0
+Primera defensa: 27 1 0
+Defensa: 27 2 1
+Primera defensa: 27 2 5.58581
+Defensa: 27 3 1
+Primera defensa: 27 3 5.84705
+Defensa: 27 4 1
+Primera defensa: 27 4 6.12564
+Defensa: 27 5 1
+Primera defensa: 27 5 6.42161
+Defensa: 27 6 1
+Primera defensa: 27 6 6.73435
+Defensa: 27 7 1
+Primera defensa: 27 7 7.06225
+Defensa: 27 8 1
+Primera defensa: 27 8 7.40233
+Defensa: 27 9 0
+Primera defensa: 27 9 0
+Defensa: 27 10 0
+Primera defensa: 27 10 0
+Defensa: 27 11 0
+Primera defensa: 27 11 0
+Defensa: 27 12 0
+Primera defensa: 27 12 0
+Defensa: 27 13 0
+Primera defensa: 27 13 0
+Defensa: 27 14 0
+Primera defensa: 27 14 0
+Defensa: 27 15 0
+Primera defensa: 27 15 0
+Defensa: 27 16 0
+Primera defensa: 27 16 0
+Defensa: 27 17 0
+Primera defensa: 27 17 0
+Defensa: 27 18 0
+Primera defensa: 27 18 0
+Defensa: 27 19 0
+Primera defensa: 27 19 0
+Defensa: 27 20 1
+Primera defensa: 27 20 9.03508
+Defensa: 27 21 1
+Primera defensa: 27 21 8.75376
+Defensa: 27 22 1
+Primera defensa: 27 22 8.43649
+Defensa: 27 23 1
+Primera defensa: 27 23 8.09776
+Defensa: 27 24 0
+Primera defensa: 27 24 0
+Defensa: 27 25 0
+Primera defensa: 27 25 0
+Defensa: 27 26 0
+Primera defensa: 27 26 0
+Defensa: 27 27 0
+Primera defensa: 27 27 0
+Defensa: 27 28 0
+Primera defensa: 27 28 0
+Defensa: 27 29 0
+Primera defensa: 27 29 0
+Defensa: 27 30 0
+Primera defensa: 27 30 0
+Defensa: 27 31 0
+Primera defensa: 27 31 0
+Defensa: 27 32 1
+Primera defensa: 27 32 5.34141
+Defensa: 27 33 1
+Primera defensa: 27 33 5.1131
+Defensa: 28 0 0
+Primera defensa: 28 0 0
+Defensa: 28 1 0
+Primera defensa: 28 1 0
+Defensa: 28 2 1
+Primera defensa: 28 2 5.40343
+Defensa: 28 3 1
+Primera defensa: 28 3 5.63884
+Defensa: 28 4 1
+Primera defensa: 28 4 5.88745
+Defensa: 28 5 1
+Primera defensa: 28 5 6.14875
+Defensa: 28 6 1
+Primera defensa: 28 6 6.42161
+Defensa: 28 7 1
+Primera defensa: 28 7 6.70402
+Defensa: 28 8 1
+Primera defensa: 28 8 6.99284
+Defensa: 28 9 0
+Primera defensa: 28 9 0
+Defensa: 28 10 0
+Primera defensa: 28 10 0
+Defensa: 28 11 0
+Primera defensa: 28 11 0
+Defensa: 28 12 0
+Primera defensa: 28 12 0
+Defensa: 28 13 0
+Primera defensa: 28 13 0
+Defensa: 28 14 0
+Primera defensa: 28 14 0
+Defensa: 28 15 0
+Primera defensa: 28 15 0
+Defensa: 28 16 0
+Primera defensa: 28 16 0
+Defensa: 28 17 0
+Primera defensa: 28 17 0
+Defensa: 28 18 1
+Primera defensa: 28 18 8.62261
+Defensa: 28 19 1
+Primera defensa: 28 19 8.49719
+Defensa: 28 20 1
+Primera defensa: 28 20 8.3189
+Defensa: 28 21 1
+Primera defensa: 28 21 8.09776
+Defensa: 28 22 0
+Primera defensa: 28 22 0
+Defensa: 28 23 0
+Primera defensa: 28 23 0
+Defensa: 28 24 0
+Primera defensa: 28 24 0
+Defensa: 28 25 0
+Primera defensa: 28 25 0
+Defensa: 28 26 0
+Primera defensa: 28 26 0
+Defensa: 28 27 0
+Primera defensa: 28 27 0
+Defensa: 28 28 0
+Primera defensa: 28 28 0
+Defensa: 28 29 0
+Primera defensa: 28 29 0
+Defensa: 28 30 0
+Primera defensa: 28 30 0
+Defensa: 28 31 0
+Primera defensa: 28 31 0
+Defensa: 28 32 1
+Primera defensa: 28 32 5.18128
+Defensa: 28 33 1
+Primera defensa: 28 33 4.97211
+Defensa: 29 0 0
+Primera defensa: 29 0 0
+Defensa: 29 1 0
+Primera defensa: 29 1 0
+Defensa: 29 2 1
+Primera defensa: 29 2 5.22352
+Defensa: 29 3 1
+Primera defensa: 29 3 5.43526
+Defensa: 29 4 1
+Primera defensa: 29 4 5.65685
+Defensa: 29 5 1
+Primera defensa: 29 5 5.88745
+Defensa: 29 6 1
+Primera defensa: 29 6 6.12564
+Defensa: 29 7 1
+Primera defensa: 29 7 6.3693
+Defensa: 29 8 1
+Primera defensa: 29 8 6.61541
+Defensa: 29 9 0
+Primera defensa: 29 9 0
+Defensa: 29 10 0
+Primera defensa: 29 10 0
+Defensa: 29 11 0
+Primera defensa: 29 11 0
+Defensa: 29 12 0
+Primera defensa: 29 12 0
+Defensa: 29 13 0
+Primera defensa: 29 13 0
+Defensa: 29 14 0
+Primera defensa: 29 14 0
+Defensa: 29 15 0
+Primera defensa: 29 15 0
+Defensa: 29 16 0
+Primera defensa: 29 16 0
+Defensa: 29 17 1
+Primera defensa: 29 17 7.99361
+Defensa: 29 18 1
+Primera defensa: 29 18 7.94301
+Defensa: 29 19 1
+Primera defensa: 29 19 7.84465
+Defensa: 29 20 1
+Primera defensa: 29 20 7.70371
+Defensa: 29 21 1
+Primera defensa: 29 21 7.5271
+Defensa: 29 22 1
+Primera defensa: 29 22 7.32252
+Defensa: 29 23 0
+Primera defensa: 29 23 0
+Defensa: 29 24 0
+Primera defensa: 29 24 0
+Defensa: 29 25 0
+Primera defensa: 29 25 0
+Defensa: 29 26 0
+Primera defensa: 29 26 0
+Defensa: 29 27 0
+Primera defensa: 29 27 0
+Defensa: 29 28 0
+Primera defensa: 29 28 0
+Defensa: 29 29 0
+Primera defensa: 29 29 0
+Defensa: 29 30 0
+Primera defensa: 29 30 0
+Defensa: 29 31 0
+Primera defensa: 29 31 0
+Defensa: 29 32 0
+Primera defensa: 29 32 0
+Defensa: 29 33 1
+Primera defensa: 29 33 4.83086
+Defensa: 30 0 0
+Primera defensa: 30 0 0
+Defensa: 30 1 0
+Primera defensa: 30 1 0
+Defensa: 30 2 0
+Primera defensa: 30 2 0
+Defensa: 30 3 1
+Primera defensa: 30 3 5.23783
+Defensa: 30 4 1
+Primera defensa: 30 4 5.43526
+Defensa: 30 5 1
+Primera defensa: 30 5 5.63884
+Defensa: 30 6 1
+Primera defensa: 30 6 5.84705
+Defensa: 30 7 1
+Primera defensa: 30 7 6.05783
+Defensa: 30 8 0
+Primera defensa: 30 8 0
+Defensa: 30 9 0
+Primera defensa: 30 9 0
+Defensa: 30 10 0
+Primera defensa: 30 10 0
+Defensa: 30 11 0
+Primera defensa: 30 11 0
+Defensa: 30 12 0
+Primera defensa: 30 12 0
+Defensa: 30 13 0
+Primera defensa: 30 13 0
+Defensa: 30 14 0
+Primera defensa: 30 14 0
+Defensa: 30 15 0
+Primera defensa: 30 15 0
+Defensa: 30 16 1
+Primera defensa: 30 16 7.40233
+Defensa: 30 17 1
+Primera defensa: 30 17 7.40233
+Defensa: 30 18 1
+Primera defensa: 30 18 7.3621
+Defensa: 30 19 1
+Primera defensa: 30 19 7.28357
+Defensa: 30 20 1
+Primera defensa: 30 20 7.17035
+Defensa: 30 21 1
+Primera defensa: 30 21 7.02728
+Defensa: 30 22 1
+Primera defensa: 30 22 6.85994
+Defensa: 30 23 1
+Primera defensa: 30 23 6.67409
+Defensa: 30 24 0
+Primera defensa: 30 24 0
+Defensa: 30 25 0
+Primera defensa: 30 25 0
+Defensa: 30 26 0
+Primera defensa: 30 26 0
+Defensa: 30 27 0
+Primera defensa: 30 27 0
+Defensa: 30 28 0
+Primera defensa: 30 28 0
+Defensa: 30 29 0
+Primera defensa: 30 29 0
+Defensa: 30 30 0
+Primera defensa: 30 30 0
+Defensa: 30 31 0
+Primera defensa: 30 31 0
+Defensa: 30 32 0
+Primera defensa: 30 32 0
+Defensa: 30 33 0
+Primera defensa: 30 33 0
+Defensa: 31 0 0
+Primera defensa: 31 0 0
+Defensa: 31 1 0
+Primera defensa: 31 1 0
+Defensa: 31 2 0
+Primera defensa: 31 2 0
+Defensa: 31 3 0
+Primera defensa: 31 3 0
+Defensa: 31 4 0
+Primera defensa: 31 4 0
+Defensa: 31 5 1
+Primera defensa: 31 5 5.40343
+Defensa: 31 6 1
+Primera defensa: 31 6 5.58581
+Defensa: 31 7 0
+Primera defensa: 31 7 0
+Defensa: 31 8 0
+Primera defensa: 31 8 0
+Defensa: 31 9 0
+Primera defensa: 31 9 0
+Defensa: 31 10 0
+Primera defensa: 31 10 0
+Defensa: 31 11 0
+Primera defensa: 31 11 0
+Defensa: 31 12 0
+Primera defensa: 31 12 0
+Defensa: 31 13 0
+Primera defensa: 31 13 0
+Defensa: 31 14 0
+Primera defensa: 31 14 0
+Defensa: 31 15 0
+Primera defensa: 31 15 0
+Defensa: 31 16 1
+Primera defensa: 31 16 6.89246
+Defensa: 31 17 1
+Primera defensa: 31 17 6.89246
+Defensa: 31 18 1
+Primera defensa: 31 18 6.85994
+Defensa: 31 19 1
+Primera defensa: 31 19 6.79628
+Defensa: 31 20 1
+Primera defensa: 31 20 6.70402
+Defensa: 31 21 1
+Primera defensa: 31 21 6.58665
+Defensa: 31 22 1
+Primera defensa: 31 22 6.44826
+Defensa: 31 23 1
+Primera defensa: 31 23 6.29317
+Defensa: 31 24 0
+Primera defensa: 31 24 0
+Defensa: 31 25 0
+Primera defensa: 31 25 0
+Defensa: 31 26 0
+Primera defensa: 31 26 0
+Defensa: 31 27 0
+Primera defensa: 31 27 0
+Defensa: 31 28 0
+Primera defensa: 31 28 0
+Defensa: 31 29 0
+Primera defensa: 31 29 0
+Defensa: 31 30 0
+Primera defensa: 31 30 0
+Defensa: 31 31 0
+Primera defensa: 31 31 0
+Defensa: 31 32 0
+Primera defensa: 31 32 0
+Defensa: 31 33 0
+Primera defensa: 31 33 0
+Defensa: 32 0 0
+Primera defensa: 32 0 0
+Defensa: 32 1 0
+Primera defensa: 32 1 0
+Defensa: 32 2 0
+Primera defensa: 32 2 0
+Defensa: 32 3 0
+Primera defensa: 32 3 0
+Defensa: 32 4 0
+Primera defensa: 32 4 0
+Defensa: 32 5 0
+Primera defensa: 32 5 0
+Defensa: 32 6 0
+Primera defensa: 32 6 0
+Defensa: 32 7 0
+Primera defensa: 32 7 0
+Defensa: 32 8 0
+Primera defensa: 32 8 0
+Defensa: 32 9 0
+Primera defensa: 32 9 0
+Defensa: 32 10 0
+Primera defensa: 32 10 0
+Defensa: 32 11 0
+Primera defensa: 32 11 0
+Defensa: 32 12 0
+Primera defensa: 32 12 0
+Defensa: 32 13 0
+Primera defensa: 32 13 0
+Defensa: 32 14 0
+Primera defensa: 32 14 0
+Defensa: 32 15 0
+Primera defensa: 32 15 0
+Defensa: 32 16 1
+Primera defensa: 32 16 6.44826
+Defensa: 32 17 1
+Primera defensa: 32 17 6.44826
+Defensa: 32 18 1
+Primera defensa: 32 18 6.42161
+Defensa: 32 19 1
+Primera defensa: 32 19 6.3693
+Defensa: 32 20 1
+Primera defensa: 32 20 6.29317
+Defensa: 32 21 1
+Primera defensa: 32 21 6.19578
+Defensa: 32 22 1
+Primera defensa: 32 22 6.08018
+Defensa: 32 23 1
+Primera defensa: 32 23 5.94964
+Defensa: 32 24 0
+Primera defensa: 32 24 0
+Defensa: 32 25 0
+Primera defensa: 32 25 0
+Defensa: 32 26 0
+Primera defensa: 32 26 0
+Defensa: 32 27 0
+Primera defensa: 32 27 0
+Defensa: 32 28 0
+Primera defensa: 32 28 0
+Defensa: 32 29 0
+Primera defensa: 32 29 0
+Defensa: 32 30 0
+Primera defensa: 32 30 0
+Defensa: 32 31 0
+Primera defensa: 32 31 0
+Defensa: 32 32 0
+Primera defensa: 32 32 0
+Defensa: 32 33 0
+Primera defensa: 32 33 0
+Defensa: 33 0 0
+Primera defensa: 33 0 0
+Defensa: 33 1 0
+Primera defensa: 33 1 0
+Defensa: 33 2 0
+Primera defensa: 33 2 0
+Defensa: 33 3 0
+Primera defensa: 33 3 0
+Defensa: 33 4 0
+Primera defensa: 33 4 0
+Defensa: 33 5 0
+Primera defensa: 33 5 0
+Defensa: 33 6 0
+Primera defensa: 33 6 0
+Defensa: 33 7 0
+Primera defensa: 33 7 0
+Defensa: 33 8 0
+Primera defensa: 33 8 0
+Defensa: 33 9 0
+Primera defensa: 33 9 0
+Defensa: 33 10 0
+Primera defensa: 33 10 0
+Defensa: 33 11 1
+Primera defensa: 33 11 5.7496
+Defensa: 33 12 1
+Primera defensa: 33 12 5.84705
+Defensa: 33 13 1
+Primera defensa: 33 13 5.92869
+Defensa: 33 14 1
+Primera defensa: 33 14 5.99222
+Defensa: 33 15 0
+Primera defensa: 33 15 0
+Defensa: 33 16 1
+Primera defensa: 33 16 6.05783
+Defensa: 33 17 1
+Primera defensa: 33 17 6.05783
+Defensa: 33 18 1
+Primera defensa: 33 18 6.03572
+Defensa: 33 19 1
+Primera defensa: 33 19 5.99222
+Defensa: 33 20 1
+Primera defensa: 33 20 5.92869
+Defensa: 33 21 1
+Primera defensa: 33 21 5.84705
+Defensa: 33 22 1
+Primera defensa: 33 22 5.7496
+Defensa: 33 23 1
+Primera defensa: 33 23 5.63884
+Defensa: 33 24 0
+Primera defensa: 33 24 0
+Defensa: 33 25 0
+Primera defensa: 33 25 0
+Defensa: 33 26 0
+Primera defensa: 33 26 0
+Defensa: 33 27 0
+Primera defensa: 33 27 0
+Defensa: 33 28 0
+Primera defensa: 33 28 0
+Defensa: 33 29 0
+Primera defensa: 33 29 0
+Defensa: 33 30 0
+Primera defensa: 33 30 0
+Defensa: 33 31 0
+Primera defensa: 33 31 0
+Defensa: 33 32 0
+Primera defensa: 33 32 0
+Defensa: 33 33 0
+Primera defensa: 33 33 0
+placedefense 2
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 996
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 995
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 994
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 993
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 992
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 991
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 990
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 989
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 988
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 987
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 986
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 985
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 984
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 983
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 982
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 981
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 980
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 979
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 978
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 977
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 976
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 975
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 974
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 973
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 972
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 971
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 970
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 969
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 968
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 967
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 966
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 965
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 964
+Fuera de factibilidad
+seleccion primera defensa
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+Pasa obstaculos
+maxAttemps 996
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+Pasa obstaculos
+maxAttemps 995
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+Pasa obstaculos
+maxAttemps 994
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+Pasa obstaculos
+maxAttemps 993
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+Pasa obstaculos
+maxAttemps 992
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+Pasa obstaculos
+maxAttemps 991
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+Pasa obstaculos
+maxAttemps 990
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+Pasa obstaculos
+maxAttemps 989
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+Pasa obstaculos
+maxAttemps 996
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+Pasa obstaculos
+maxAttemps 995
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 996
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+Pasa obstaculos
+maxAttemps 995
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+Pasa obstaculos
+maxAttemps 994
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+Pasa obstaculos
+maxAttemps 993
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+Pasa obstaculos
+maxAttemps 992
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+Pasa obstaculos
+maxAttemps 991
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+Pasa obstaculos
+maxAttemps 990
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+Pasa obstaculos
+maxAttemps 989
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+Pasa obstaculos
+maxAttemps 999
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 998
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 997
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 996
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 995
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 994
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 993
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+Pasa obstaculos
+maxAttemps 992
+Fuera de factibilidad
+seleccion
+Factibilidad inicio
+Pasa posicion 
+Pasa defensas
+i de fact: 1
+i de fact: 2
+i de fact: 3
+i de fact: 4
+i de fact: 5
+i de fact: 6
+i de fact: 7
+i de fact: 8
+i de fact: 9
+i de fact: 10
+i de fact: 11
+i de fact: 12
+i de fact: 13
+i de fact: 14
+i de fact: 15
+i de fact: 16
+i de fact: 17
+i de fact: 18
+i de fact: 19
+i de fact: 20
+i de fact: 21
+i de fact: 22
+i de fact: 23
+i de fact: 24
+i de fact: 25
+Pasa obstaculos
+maxAttemps 1000
+Fuera de factibilidad
+Warning: defense 1 moved from 325,81 to 325,85
+Warning: defense 4 moved from 265,149 to 265,145
+Warning: defense 5 moved from 325,183 to 325,185
+Warning: defense 6 moved from 255,81 to 255,85
+Warning: defense 7 moved from 335,81 to 335,85
+Warning: defense 8 moved from 345,81 to 345,85
+Warning: defense 9 moved from 355,81 to 355,85
+Warning: defense 13 moved from 125,149 to 125,145
+Warning: defense 14 moved from 145,149 to 145,145
+Warning: defense 15 moved from 355,149 to 355,145
+Warning: defense 16 moved from 145,183 to 145,185
+Warning: defense 17 moved from 275,183 to 275,185
+Warning: defense 18 moved from 315,183 to 315,185
+Warning: defense 19 moved from 335,183 to 335,185
+Warning: defense 20 moved from 245,217 to 245,215
+Warning: defense 21 moved from 265,217 to 265,215
+Warning: defense 22 moved from 315,217 to 315,215
+Ases: 2476
+Placed defenses:
+Defense 0 with radio 4.98829 created at (305, 115, 0)
+Defense 1 with radio 4.98829 created at (325, 85, 0)
+Defense 2 with radio 4.98829 created at (285, 115, 0)
+Defense 3 with radio 4.98829 created at (295, 115, 0)
+Defense 4 with radio 4.63869 created at (265, 145, 0)
+Defense 5 with radio 4.63869 created at (325, 185, 0)
+Defense 6 with radio 4.63869 created at (255, 85, 0)
+Defense 7 with radio 4.63869 created at (335, 85, 0)
+Defense 8 with radio 4.63234 created at (345, 85, 0)
+Defense 9 with radio 4.63234 created at (355, 85, 0)
+Defense 10 with radio 4.63234 created at (125, 115, 0)
+Defense 11 with radio 4.63234 created at (135, 115, 0)
+Defense 12 with radio 5.40629 created at (335, 115, 0)
+Defense 13 with radio 5.40629 created at (125, 145, 0)
+Defense 14 with radio 5.40629 created at (145, 145, 0)
+Defense 15 with radio 5.40629 created at (355, 145, 0)
+Defense 16 with radio 5.44934 created at (145, 185, 0)
+Defense 17 with radio 5.44934 created at (275, 185, 0)
+Defense 18 with radio 5.44934 created at (315, 185, 0)
+Defense 19 with radio 5.44934 created at (335, 185, 0)
+Defense 20 with radio 5.48085 created at (245, 215, 0)
+Defense 21 with radio 5.48085 created at (265, 215, 0)
+Defense 22 with radio 5.48085 created at (315, 215, 0)
+Defense 23 with radio 5.48085 created at (285, 285, 0)
+Error: Defense 5 at (325.000000, 185.000000) collides with defense 18 at (315.000000, 185.000000) (dist=10.000000)
+0.00	Base raided!

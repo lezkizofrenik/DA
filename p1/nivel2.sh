@@ -1,0 +1,6 @@
+#!/bin/bash
+niveles=(1122 1625 1854 2356 2856 3456 3552 3728 4356 4592)
+for j in "${niveles[@]}"
+do
+    ../simulador/simulador -level $j
+done

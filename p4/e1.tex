@@ -1,0 +1,5 @@
+El algoritmo A* utiliza una función de evaluación que consiste en la suma del coste real del camino para llegar al nodo actual desde el nodo inicial, y del valor heurísitico del nodo a evaluar desde el actual hasta el final, 
+
+Utiliza principalmente dos estructuras de datos auxiliares: los abiertos, ordenados por el valor devuelto por la función de evaluación; y los cerrados, donde se tiene un seguimiento de los nodos visitados.
+
+Para cumplir la condición de la estructura que almacena los nodos abiertos, haré uso de un montículo, tal y como hemos visto en clase. Para los cerrados, basta con un vector.

@@ -1,0 +1,46 @@
+
+
+/*
+
+
+struct compare {
+
+    bool operator()(Defense * d1, Defense * d2) {return DefenseValue(d1) > DefenseValue(d2);}
+
+};
+
+
+Defense * get(std::list<Defense* > d, int i){
+
+    std::list<Defense *>::iterator it = d.begin();
+
+    std::advance(it, i);
+
+    return (*it);
+
+}
+
+void bestCombination(std::vector<std::vector<float>> &m, std::list<int> &selectedIDs, std::list<Defense *> defenses, unsigned int ases)
+
+{
+
+    //ACCEDER CON ASES DA ERROR
+
+    for (int i = defenses.size()-1; i > 0 && ases > 0; --i){
+
+        if (m[i][ases] != m[i - 1][ases]){
+
+            selectedIDs.push_back(get(defenses, i)->id);
+
+            ases -= get(defenses, i)->cost;
+
+        }
+
+    }
+
+    //if(m[1][j] != 0) selectedIDs.push_front((*defenses.begin())->id);
+
+}
+
+*/
+

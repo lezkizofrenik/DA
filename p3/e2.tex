@@ -1,0 +1,46 @@
+\begin{lstlisting}
+void fusion(std::vector<cellValueStruct> &v, int i, int j, int k){
+    int left= k-i+1, right= j-k, iaux = 0, jaux = 0, kaux = i;
+
+    std::vector<cellValueStruct> L(left), R(right);
+
+    for (int r = 0; r < right; ++r) R[r] = v[k+1+r];
+    for (int x = 0; x < left; ++x) L[x] = v[x+i];
+
+    while (iaux < left && jaux < right){
+        if(L[iaux] <= R[jaux]){
+            v[kaux] = L[iaux];
+            iaux++;
+        }
+        else{
+            v[kaux] = R[jaux];
+            jaux++;
+        }
+
+        kaux++;
+    }
+
+    while (jaux < right){
+        v[kaux] = R[jaux];
+        jaux++;
+        kaux++;
+    }
+    while (iaux < left){
+        v[kaux] = L[iaux];
+        iaux++;
+        kaux++;
+    }
+
+}
+
+
+void sortFusion(std::vector<cellValueStruct> &v, int i, int j){ 
+    if (i < j) { 
+        int k = i+(j-i)/2; 
+        sortFusion(v, i, k); 
+        sortFusion(v, k+1, j); 
+        fusion(v, i, j, k); 
+    } 
+} 
+
+\end{lstlisting}

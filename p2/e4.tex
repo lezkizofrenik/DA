@@ -1,0 +1,21 @@
+\begin{lstlisting}
+void topDefenses(std::vector<std::vector<float>> &m, std::list<int> &selectedIDs, std::list<Defense *> defenses, unsigned int ases){
+    
+    std::list<Defense *>::iterator itDefe = defenses.end();
+    --itDefe; 
+    int j = ases;
+    for (int i = defenses.size()-1; i > 0 && ases > 0; --i, --itDefe){
+        if (m[i][j] != m[i-1][j]){
+            selectedIDs.push_back((*itDefe)->id);
+            ases -= (*itDefe)->cost;
+            j-=(*itDefe)->cost;
+        }
+    }
+    if(ases >= (*defenses.begin())->cost){
+            selectedIDs.push_back((*defenses.begin())->id);
+            ases -= (*defenses.begin())->cost;
+    }
+    
+}
+
+\end{lstlisting}
